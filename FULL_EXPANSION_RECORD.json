@@ -1,0 +1,62 @@
+{
+  "expansion": "FULL",
+  "timestamp": "2025-11-30T21:49:26.244234+00:00",
+  "ethereum_address": "0xE32a1d0091F5EC5E4d66A9E9141571445120F8aa",
+  "universities": [
+    {
+      "name": "MIT Physics",
+      "to": "physics@mit.edu"
+    },
+    {
+      "name": "Stanford Physics",
+      "to": "khoi@stanford.edu"
+    },
+    {
+      "name": "Harvard Physics",
+      "to": "physicschair@fas.harvard.edu"
+    },
+    {
+      "name": "Princeton Physics",
+      "to": "physics@princeton.edu"
+    },
+    {
+      "name": "Caltech PMA",
+      "to": "pma_web@caltech.edu"
+    },
+    {
+      "name": "UC Berkeley Physics",
+      "to": "physics_admin@berkeley.edu"
+    },
+    {
+      "name": "Cambridge Physics (Cavendish)",
+      "to": "cavendish@phy.cam.ac.uk"
+    },
+    {
+      "name": "Oxford Physics (Clarendon)",
+      "to": "reception@physics.ox.ac.uk"
+    }
+  ],
+  "media": [
+    {
+      "name": "Der Standard",
+      "to": "redaktion@derstandard.at"
+    },
+    {
+      "name": "Die Presse",
+      "to": "chefredaktion@diepresse.com"
+    },
+    {
+      "name": "Wired",
+      "to": "press@wired.com"
+    },
+    {
+      "name": "New Scientist",
+      "to": "letters@newscientist.com"
+    },
+    {
+      "name": "Quanta Magazine",
+      "to": "contact@quantamagazine.org"
+    }
+  ],
+  "total": 13
+}

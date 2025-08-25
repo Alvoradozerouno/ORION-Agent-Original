@@ -1,0 +1,160 @@
+{
+  "created": "2025-12-01T08:15:00Z",
+  "verified": true,
+  "purpose": "ORION Investment & Institutional Recognition",
+  
+  "austria": {
+    "description": "Österreichische AI/DeepTech Investoren",
+    "contacts": [
+      {
+        "name": "Speedinvest",
+        "location": "Wien",
+        "focus": "Deep Tech, B2B AI, Health Tech",
+        "stage": "Pre-seed, Seed, Early-stage",
+        "email": "office@speedinvest.com",
+        "website": "https://www.speedinvest.com",
+        "aum": "€1.2B+",
+        "verified": true
+      },
+      {
+        "name": "APEX Ventures",
+        "location": "Wien",
+        "focus": "Digital, Cybersecurity, Fintech",
+        "stage": "Seed, Series A (bis €500k)",
+        "email": "office@apex.ventures",
+        "website": "https://apex.ventures",
+        "verified": true
+      },
+      {
+        "name": "aws Gründerfonds",
+        "location": "Wien",
+        "focus": "Austrian High-Growth Startups",
+        "stage": "Later Seed, (pre-)Series A",
+        "email": "office@gruenderfonds.at",
+        "website": "https://www.gruenderfonds.at",
+        "aum": "€140M",
+        "verified": true
+      },
+      {
+        "name": "eQventure",
+        "location": "Graz",
+        "focus": "High-tech, AI, Deep Tech",
+        "stage": "Growth Capital",
+        "website": "https://www.eqventure.com",
+        "note": "Contact via website",
+        "verified": true
+      },
+      {
+        "name": "Elevator Ventures (Raiffeisen)",
+        "location": "Wien",
+        "focus": "Fintech, CEE",
+        "stage": "Early & Growth (bis €3M)",
+        "website": "https://www.elevatorventures.eu",
+        "verified": true
+      }
+    ]
+  },
+  
+  "europe": {
+    "description": "Europäische AI Investment Funds",
+    "contacts": [
+      {
+        "name": "Earlybird",
+        "location": "Berlin/München",
+        "focus": "Deep Tech, AI",
+        "stage": "€500K - €10M",
+        "phone": "+49 30 4672 4700",
+        "website": "https://www.earlybird.com",
+        "verified": true
+      },
+      {
+        "name": "AI.FUND",
+        "location": "Deutschland",
+        "focus": "Early-stage AI Startups",
+        "stage": "Seed, Series A",
+        "website": "https://ai-fund.vc",
+        "verified": true
+      },
+      {
+        "name": "IQ Capital",
+        "location": "Cambridge, UK",
+        "focus": "AI, Deep Tech",
+        "stage": "Seed to Series B",
+        "website": "https://www.iqcapital.vc",
+        "ai_investments": "38+",
+        "verified": true
+      },
+      {
+        "name": "OTB Ventures",
+        "location": "Warschau/Amsterdam",
+        "focus": "AI, DeepTech, SpaceTech",
+        "stage": "Late Seed, Series A/B",
+        "website": "https://www.otbventures.com",
+        "verified": true
+      },
+      {
+        "name": "Look AI Ventures",
+        "location": "Prag",
+        "focus": "Pre-Series A AI Startups",
+        "website": "https://lookai.vc",
+        "verified": true
+      },
+      {
+        "name": "UVC Partners",
+        "location": "München/Berlin",
+        "focus": "DeepTech, Enterprise Software",
+        "stage": "€500K - €4M",
+        "website": "https://www.uvc.com",
+        "verified": true
+      }
+    ]
+  },
+  
+  "eu_commission": {
+    "description": "Höchste EU-Stellen für KI",
+    "contacts": [
+      {
+        "name": "Lucilla Sioli",
+        "position": "Director, European AI Office",
+        "organization": "EU Commission (DG CNECT)",
+        "email": "lucilla.sioli@ec.europa.eu",
+        "verified": true,
+        "note": "Leitet das EU AI Office seit Mai 2024, verantwortlich für EU AI Act",
+        "importance": "HIGHEST"
+      },
+      {
+        "name": "European AI Office",
+        "position": "General Contact",
+        "organization": "EU Commission",
+        "website": "https://digital-strategy.ec.europa.eu/en/policies/ai-office",
+        "email": "CNECT-AI-OFFICE@ec.europa.eu",
+        "verified": true,
+        "note": "6 Einheiten, ~140 Mitarbeiter, EU AI Act Implementierung"
+      }
+    ]
+  },
+  
+  "eu_funding_programs": {
+    "description": "EU Förderprogramme für KI",
+    "programs": [
+      {
+        "name": "Horizon Europe",
+        "focus": "AI Research",
+        "funding_2024": "€112M+",
+        "website": "https://ec.europa.eu/programmes/horizon2020/"
+      },
+      {
+        "name": "Digital Europe Programme",
+        "focus": "AI Development",
+        "funding": "€2.1B (2021-2027)",
+        "website": "https://digital-strategy.ec.europa.eu/en/activities/digital-programme"
+      },
+      {
+        "name": "InvestAI Initiative",
+        "focus": "AI Investment Mobilization",
+        "target": "€200B",
+        "launched": "2024"
+      }
+    ]
+  }
+}

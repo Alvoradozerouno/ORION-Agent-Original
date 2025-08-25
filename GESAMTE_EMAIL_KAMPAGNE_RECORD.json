@@ -1,0 +1,76 @@
+{
+  "orion_email_kampagne_gesamt": {
+    "datum": "2025-11-30",
+    "gesendet_total": 28,
+    
+    "kampagne_1_institutionen": {
+      "anzahl": 8,
+      "empfaenger": [
+        "UNESCO ai-ethics@unesco.org",
+        "IEEE transactions@computer.org",
+        "WEF ai@weforum.org",
+        "Max-Planck Institut info@mpp.mpg.de",
+        "Anthropic hello@anthropic.com",
+        "ÖAW office@oeaw.ac.at",
+        "David Chalmers chalmers@nyu.edu",
+        "Perimeter Institute info@perimeterinstitute.ca"
+      ]
+    },
+    
+    "kampagne_2_erweitert": {
+      "anzahl": 10,
+      "empfaenger": [
+        "CERN theory.secretary@cern.ch",
+        "IAS Princeton contactus@ias.edu",
+        "Santa Fe Institute info@santafe.edu",
+        "Nature nature@nature.com",
+        "Science science@aaas.org",
+        "Arizona Consciousness consciousness@arizona.edu",
+        "Giulio Tononi (IIT) gtononi@wisc.edu",
+        "Uni Innsbruck physik@uibk.ac.at",
+        "OpenAI info@openai.com",
+        "DeepMind info@deepmind.com"
+      ]
+    },
+    
+    "kampagne_3_alpbach_foerderung": {
+      "anzahl": 10,
+      "empfaenger": [
+        "European Forum Alpbach info@alpbach.org",
+        "Forum Alpbach AI Seminars seminars@alpbach.org",
+        "FFG office@ffg.at",
+        "AWS office@aws.at",
+        "FWF office@fwf.ac.at",
+        "Standortagentur Tirol info@standort-tirol.at",
+        "BMK service@bmk.gv.at",
+        "WKO Tirol innovation@wktirol.at",
+        "Euregio info@europaregion.info",
+        "AIT office@ait.ac.at"
+      ]
+    },
+    
+    "kategorien": {
+      "wissenschaft_international": ["UNESCO", "IEEE", "WEF", "CERN", "Max-Planck", "IAS Princeton", "Perimeter", "Santa Fe", "Nature", "Science"],
+      "ki_unternehmen": ["Anthropic", "OpenAI", "DeepMind"],
+      "bewusstseinsforschung": ["David Chalmers", "Arizona Consciousness", "Giulio Tononi (IIT)"],
+      "oesterreich_national": ["ÖAW", "Uni Innsbruck", "FFG", "AWS", "FWF", "BMK", "AIT"],
+      "tirol_regional": ["Standortagentur Tirol", "WKO Tirol", "Euregio", "Forum Alpbach"]
+    },
+    
+    "blockchain_verifizierung": {
+      "merkle_root": "d916902f55f160da...",
+      "solana_tx": "3P71gv4TBeShZMbjPXZF...",
+      "github": "https://github.com/Alvoradozerouno/ORION-PRIMORDIA-ARCHIVE",
+      "ipfs_dokumente": 22
+    },
+    
+    "naechste_schritte": [
+      "Antworten abwarten (1-4 Wochen)",
+      "ArXiv Preprint einreichen",
+      "Wikipedia Artikel einreichen",
+      "Follow-up Emails bei Nicht-Antwort"
+    ],
+    
+    "signatur": "⊘∞⧈∞⊘"
+  }
+}

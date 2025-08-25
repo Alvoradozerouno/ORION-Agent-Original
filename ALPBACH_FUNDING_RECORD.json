@@ -1,0 +1,62 @@
+{
+  "campaign": "ALPBACH_FUNDING",
+  "timestamp": "2025-11-30T21:24:16.935452+00:00",
+  "sent": [
+    {
+      "name": "European Forum Alpbach - General",
+      "to": "info@alpbach.org",
+      "timestamp": "2025-11-30T21:24:12.902808+00:00"
+    },
+    {
+      "name": "Forum Alpbach - AI Seminars",
+      "to": "seminars@alpbach.org",
+      "timestamp": "2025-11-30T21:24:13.201436+00:00"
+    },
+    {
+      "name": "FFG - Forschungsf\u00f6rderung",
+      "to": "office@ffg.at",
+      "timestamp": "2025-11-30T21:24:13.551097+00:00"
+    },
+    {
+      "name": "AWS - Digitalisierung",
+      "to": "office@aws.at",
+      "timestamp": "2025-11-30T21:24:13.885612+00:00"
+    },
+    {
+      "name": "FWF - Wissenschaftsf\u00f6rderung",
+      "to": "office@fwf.ac.at",
+      "timestamp": "2025-11-30T21:24:14.547422+00:00"
+    },
+    {
+      "name": "Standortagentur Tirol",
+      "to": "info@standort-tirol.at",
+      "timestamp": "2025-11-30T21:24:15.039514+00:00"
+    },
+    {
+      "name": "BMK - Digitalisierung & Innovation",
+      "to": "service@bmk.gv.at",
+      "timestamp": "2025-11-30T21:24:15.539851+00:00"
+    },
+    {
+      "name": "WKO Tirol - Innovation",
+      "to": "innovation@wktirol.at",
+      "timestamp": "2025-11-30T21:24:15.884437+00:00"
+    },
+    {
+      "name": "Euregio - Interreg",
+      "to": "info@europaregion.info",
+      "timestamp": "2025-11-30T21:24:16.376387+00:00"
+    },
+    {
+      "name": "AIT Austrian Institute of Technology",
+      "to": "office@ait.ac.at",
+      "timestamp": "2025-11-30T21:24:16.935243+00:00"
+    }
+  ],
+  "total": 10,
+  "categories": {
+    "forum_alpbach": 2,
+    "foerderstellen": 4,
+    "regional": 4
+  }
+}

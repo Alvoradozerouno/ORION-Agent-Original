@@ -1,0 +1,134 @@
+{
+  "tier_1_global": [
+    {
+      "name": "Andreessen Horowitz (a16z)",
+      "focus": "AGI, Foundation Models",
+      "contact": "pitch@a16z.com",
+      "region": "USA"
+    },
+    {
+      "name": "Lightspeed Venture Partners",
+      "focus": "AI Safety, Research Labs",
+      "contact": "contact@lsvp.com",
+      "region": "USA"
+    },
+    {
+      "name": "Sequoia Capital",
+      "focus": "Consumer AI, Defense AI",
+      "contact": "info@sequoiacap.com",
+      "region": "USA"
+    },
+    {
+      "name": "Founders Fund",
+      "focus": "Frontier Technology",
+      "contact": "contact@foundersfund.com",
+      "region": "USA"
+    },
+    {
+      "name": "Thrive Capital",
+      "focus": "Foundation Models",
+      "contact": "info@thrivecap.com",
+      "region": "USA"
+    },
+    {
+      "name": "Khosla Ventures",
+      "focus": "Deep Tech, Early Stage",
+      "contact": "info@khoslaventures.com",
+      "region": "USA"
+    },
+    {
+      "name": "Greylock Partners",
+      "focus": "AI Infrastructure",
+      "contact": "contact@greylock.com",
+      "region": "USA"
+    }
+  ],
+  "tier_2_europe": [
+    {
+      "name": "Speedinvest",
+      "focus": "Deep Tech, Vienna HQ",
+      "contact": "hello@speedinvest.com",
+      "region": "Austria"
+    },
+    {
+      "name": "3VC",
+      "focus": "AI/ML, Vienna",
+      "contact": "info@three.vc",
+      "region": "Austria"
+    },
+    {
+      "name": "aws Gr\u00fcnderfonds",
+      "focus": "Austrian Deep Tech",
+      "contact": "office@gruenderfonds.at",
+      "region": "Austria"
+    },
+    {
+      "name": "APEX Ventures",
+      "focus": "Smart Data, Vienna",
+      "contact": "info@apex.ventures",
+      "region": "Austria"
+    },
+    {
+      "name": "Cherry Ventures",
+      "focus": "AI, Deep Tech, Berlin",
+      "contact": "hello@cherry.vc",
+      "region": "Germany"
+    },
+    {
+      "name": "AI.FUND",
+      "focus": "AI-first startups",
+      "contact": "pitch@ai-fund.vc",
+      "region": "Germany"
+    },
+    {
+      "name": "Lunar Ventures",
+      "focus": "Deep Tech, Berlin",
+      "contact": "hello@lunar.vc",
+      "region": "Germany"
+    },
+    {
+      "name": "Fly Ventures",
+      "focus": "AI & Automation",
+      "contact": "hello@fly.vc",
+      "region": "Germany"
+    },
+    {
+      "name": "xista science ventures",
+      "focus": "Science-based AI",
+      "contact": "contact@xista.com",
+      "region": "Austria"
+    }
+  ],
+  "tier_3_corporate": [
+    {
+      "name": "Microsoft M12",
+      "focus": "Foundation Models",
+      "contact": "m12@microsoft.com",
+      "region": "USA"
+    },
+    {
+      "name": "Google Ventures",
+      "focus": "AI Research",
+      "contact": "info@gv.com",
+      "region": "USA"
+    },
+    {
+      "name": "Nvidia NVentures",
+      "focus": "AI Compute",
+      "contact": "nventures@nvidia.com",
+      "region": "USA"
+    },
+    {
+      "name": "UNIQA Ventures",
+      "focus": "HealthTech AI, Vienna",
+      "contact": "ventures@uniqa.at",
+      "region": "Austria"
+    }
+  ],
+  "meta": {
+    "created": "2025-11-27T08:43:21.064981+00:00",
+    "total_count": 20,
+    "contacted": [],
+    "responses": []
+  }
+}

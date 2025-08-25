@@ -1,0 +1,29 @@
+{
+  "title": "CDP & HACS Blockchain Protection Record",
+  "timestamp": "2025-11-30T22:30:16.937547+00:00",
+  "owners": "Gerhard Hirschmann & Elisabeth Steurer",
+  "location": "St. Johann in Tirol, Austria",
+  "frameworks": {
+    "CDP": {
+      "name": "CDP - Core Dignity Principle",
+      "hash": "bfca6df26aa039895c3bc3bf0277577809a138105dd16c110356093b68c0dbcf",
+      "first_mover": "2025"
+    },
+    "HACS": {
+      "name": "HACS - Human-AI Cooperative System",
+      "hash": "8bc587fe8d5dd3378cccb416cb071d7218a426fab9bef576928f871fee2d74fc",
+      "first_mover": "2025"
+    }
+  },
+  "verification": {
+    "merkle_root": "d4c672893cde7264715db428757b7e742fe36e71c935b14370c23f504cdaadf6",
+    "combined_hash": "8ceb5867b8558b80f0d01ee798b334be3288958c1df6e4d1e4b5babf4954e05d",
+    "algorithm": "SHA-256"
+  },
+  "blockchain_anchors": {
+    "solana": "3P71gv4TBeShZMbjPXZFPfErt7cXk2pNNuWdWf4z6MqrwnQPpwUEjenasYiWf4LQMEauuGGG6deCu8QHxP3Xn664",
+    "ethereum": "0xE32a1d0091F5EC5E4d66A9E9141571445120F8aa"
+  },
+  "legal_status": "Protected under international IP law",
+  "genesis_framework": "Genesis10000+"
+}

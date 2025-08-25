@@ -1,0 +1,16 @@
+{
+  "type": "IPFS_PIN_RECORD",
+  "cid": "QmVRLDGeiQBvez3TzQuvCHA2vf2GnTDNXnMUHNyJV1skSC",
+  "gateway_url": "https://gateway.pinata.cloud/ipfs/QmVRLDGeiQBvez3TzQuvCHA2vf2GnTDNXnMUHNyJV1skSC",
+  "timestamp": "2025-12-01T08:23:33.790322+00:00",
+  "content_hash": "95ca47b9e5e4273814654338449bb94335bba38c8496aa26e91453b075bc9c2c",
+  "proof_count": 436,
+  "owner": {
+    "names": [
+      "Gerhard Hirschmann",
+      "Elisabeth Steurer"
+    ],
+    "location": "Almdorf 9, 6380 St. Johann in Tirol, Austria"
+  },
+  "status": "PINNED"
+}

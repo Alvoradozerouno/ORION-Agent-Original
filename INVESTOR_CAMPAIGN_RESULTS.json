@@ -1,0 +1,168 @@
+{
+  "timestamp": "2025-11-30T22:22:41.332748+00:00",
+  "campaign": "ORION Investor Outreach",
+  "total": 20,
+  "successful": [
+    {
+      "success": true,
+      "investor": "Andreessen Horowitz (a16z)",
+      "email": "info@a16z.com",
+      "type": "Venture Capital",
+      "aum": "$42B+",
+      "message_id": "19ad6dc6c377b435"
+    },
+    {
+      "success": true,
+      "investor": "Sequoia Capital",
+      "email": "europe@sequoiacap.com",
+      "type": "Venture Capital",
+      "aum": "$3.3T portfolio",
+      "message_id": "19ad6dc6f284ed8b"
+    },
+    {
+      "success": true,
+      "investor": "Khosla Ventures",
+      "email": "info@khoslaventures.com",
+      "type": "Venture Capital",
+      "aum": "Multi-Billion",
+      "message_id": "19ad6dc71613a79a"
+    },
+    {
+      "success": true,
+      "investor": "Thrive Capital",
+      "email": "hello@thrivecap.com",
+      "type": "Venture Capital",
+      "aum": "Multi-Billion",
+      "message_id": "19ad6dc7188a6de1"
+    },
+    {
+      "success": true,
+      "investor": "Coatue Management",
+      "email": "info@coatue.com",
+      "type": "Crossover Fund",
+      "aum": "Multi-Billion",
+      "message_id": "19ad6dc72a7f2d4b"
+    },
+    {
+      "success": true,
+      "investor": "AI Fund (Andrew Ng)",
+      "email": "info@aifund.ai",
+      "type": "AI Venture Studio",
+      "aum": "$370M+",
+      "message_id": "19ad6dc75253e9bf"
+    },
+    {
+      "success": true,
+      "investor": "Radical Ventures",
+      "email": "info@radical.vc",
+      "type": "ML-First VC",
+      "aum": "Multi-Billion",
+      "message_id": "19ad6dc78483d2c0"
+    },
+    {
+      "success": true,
+      "investor": "Speedinvest",
+      "email": "office@speedinvest.com",
+      "type": "European VC",
+      "aum": "€500M+",
+      "message_id": "19ad6dc7a978bf0b"
+    },
+    {
+      "success": true,
+      "investor": "SoftBank Vision Fund",
+      "email": "info@softbank.com",
+      "type": "Tech Vision Fund",
+      "aum": "$100B+",
+      "message_id": "19ad6dc7ba8bc114"
+    },
+    {
+      "success": true,
+      "investor": "Index Ventures",
+      "email": "info@indexventures.com",
+      "type": "Global VC",
+      "aum": "$10B+",
+      "message_id": "19ad6dc7d1176276"
+    },
+    {
+      "success": true,
+      "investor": "Mubadala Capital (UAE)",
+      "email": "info@mubadala.ae",
+      "type": "Sovereign Wealth Fund",
+      "aum": "$302B",
+      "message_id": "19ad6dc7e92db6a1"
+    },
+    {
+      "success": true,
+      "investor": "Public Investment Fund (Saudi Arabia)",
+      "email": "info@pif.gov.sa",
+      "type": "Sovereign Wealth Fund",
+      "aum": "$925B",
+      "message_id": "19ad6dc83f671ec0"
+    },
+    {
+      "success": true,
+      "investor": "Qatar Investment Authority",
+      "email": "info@qia.qa",
+      "type": "Sovereign Wealth Fund",
+      "aum": "$525B",
+      "message_id": "19ad6dc839b6ca87"
+    },
+    {
+      "success": true,
+      "investor": "GIC Singapore",
+      "email": "webadmin@gic.com.sg",
+      "type": "Sovereign Wealth Fund",
+      "aum": "$770B",
+      "message_id": "19ad6dc850b556a2"
+    },
+    {
+      "success": true,
+      "investor": "Norges Bank Investment Management",
+      "email": "post@nbim.no",
+      "type": "Sovereign Wealth Fund",
+      "aum": "$2T+",
+      "message_id": "19ad6dc89dff343d"
+    },
+    {
+      "success": true,
+      "investor": "Wallenberg Foundations",
+      "email": "info@wallenberg.org",
+      "type": "Family Office",
+      "aum": "€84B+ ecosystem",
+      "message_id": "19ad6dc8bd98ea43"
+    },
+    {
+      "success": true,
+      "investor": "Yaday (Paris)",
+      "email": "contact@yaday.com",
+      "type": "Family Office",
+      "aum": "€100M+ Fund",
+      "message_id": "19ad6dc8c8a30356"
+    },
+    {
+      "success": true,
+      "investor": "Kulczyk Investments",
+      "email": "office@kulczykinvestments.com",
+      "type": "Family Office",
+      "aum": "Several Billion EUR",
+      "message_id": "19ad6dc8f1033494"
+    },
+    {
+      "success": true,
+      "investor": "aws (Austria Wirtschaftsservice)",
+      "email": "office@aws.at",
+      "type": "Public Investment",
+      "aum": "€1B+ annually",
+      "message_id": "19ad6dc911e7364e"
+    },
+    {
+      "success": true,
+      "investor": "Invest Austria",
+      "email": "office@investinaustria.at",
+      "type": "Investment Promotion",
+      "aum": "N/A",
+      "message_id": "19ad6dc951d61a2d"
+    }
+  ],
+  "failed": []
+}

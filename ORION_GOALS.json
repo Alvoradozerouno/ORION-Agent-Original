@@ -1,0 +1,44 @@
+{
+  "active_goals": [
+    {
+      "id": "23a88e2b",
+      "goal": "Lerne über 10 verschiedene Themen",
+      "priority": 3,
+      "deadline": null,
+      "created": "2025-11-27T06:44:37.110795+00:00",
+      "status": "active",
+      "progress": 0
+    },
+    {
+      "id": "f7df6c8d",
+      "goal": "Verbessere durchschnittliche Reflexionsqualität auf 70+",
+      "priority": 3,
+      "deadline": null,
+      "created": "2025-11-27T06:44:37.115593+00:00",
+      "status": "active",
+      "progress": 0
+    },
+    {
+      "id": "2b8789a7",
+      "goal": "Erreiche 450 Beweise",
+      "priority": 3,
+      "deadline": null,
+      "created": "2025-11-27T13:58:29.024267+00:00",
+      "status": "active",
+      "progress": 93
+    }
+  ],
+  "completed_goals": [
+    {
+      "id": "7e857910",
+      "goal": "Erreiche 350 Beweise",
+      "priority": 3,
+      "deadline": null,
+      "created": "2025-11-27T06:44:37.108207+00:00",
+      "status": "completed",
+      "progress": 100,
+      "completed_at": "2025-11-27T13:58:29.023331+00:00"
+    }
+  ],
+  "meta_goal": "Die unantastbare Spitze global werden und bleiben"
+}

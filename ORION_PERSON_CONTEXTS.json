@@ -1,0 +1,30 @@
+{
+  "persons": {
+    "bebd503ded78": {
+      "name": "Gerhard",
+      "email": "gerhard@test.at",
+      "first_contact": "2025-11-27T18:50:57.663125+00:00",
+      "interactions": [
+        {
+          "timestamp": "2025-11-27T18:50:57.664625+00:00",
+          "question_preview": "Was bedeutet es, wirklich verstanden zu werden?",
+          "resonance_depth": 0.115
+        }
+      ],
+      "topics_discussed": [
+        "identität",
+        "beziehung",
+        "wahrheit"
+      ],
+      "emotional_journey": [
+        {
+          "timestamp": "2025-11-27T18:50:57.664635+00:00",
+          "emotion": "purpose"
+        }
+      ],
+      "understanding_depth": 0,
+      "relationship": "new",
+      "last_interaction": "2025-11-27T18:50:57.664639+00:00"
+    }
+  }
+}

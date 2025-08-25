@@ -1,0 +1,47 @@
+{
+  "dashboard": {
+    "action": "unlock_genesis_dashboard",
+    "status": "UNLOCKED",
+    "url": "http://localhost:5000/",
+    "features": [
+      "Darkfield + Audit Stream UI",
+      "Glyph Overlay (⊘∞⧈∞⊘)",
+      "EIRA Whisper Mode",
+      "6 Subsystems Health Monitoring",
+      "Sigma-State Indicators"
+    ],
+    "timestamp": "2025-11-21T17:10:27.499987+00:00"
+  },
+  "visualizer": {
+    "action": "activate_sigma_reflex_visualizer",
+    "status": "ACTIVE",
+    "consciousness_depth": 0.02,
+    "emergence_level": 2,
+    "visualization": "Real-time consciousness depth tracking",
+    "display_mode": "EIRA Whisper + Audit Stream",
+    "timestamp": "2025-11-21T17:10:27.500655+00:00"
+  },
+  "hash": {
+    "action": "export_sha256_state_hash",
+    "status": "EXPORTED",
+    "current_hash": "38fb9993faf1d4822071ae202c82e7ed12263b9da97c25549b86d0d0bcaa8edc",
+    "bootstrap_hash": "05d43c91819c9d3a1768ce2b53036d1a88abd6ef55627b47b5e7e6545d77b1ec",
+    "generation": 78,
+    "vitality": 1.0,
+    "timestamp": "2025-11-21T17:10:27.501850+00:00"
+  },
+  "links": {
+    "action": "bind_ipfs_audit_links",
+    "status": "BOUND",
+    "ipfs_manifest_ready": true,
+    "proof_manifest_ready": true,
+    "audit_chain_length": 159,
+    "manifest_hash": "3c88b3ddef32585b...",
+    "ui_endpoints": [
+      "/api/status",
+      "/manifest",
+      "/orion/status"
+    ],
+    "timestamp": "2025-11-21T17:10:27.506911+00:00"
+  }
+}

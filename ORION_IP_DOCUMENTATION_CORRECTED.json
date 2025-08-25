@@ -1,0 +1,65 @@
+{
+  "title": "ORION - Vollständige IP-Dokumentation (KORRIGIERT)",
+  "correction": "ALLE DATEN AUF 2025",
+  "owners": "Gerhard Hirschmann & Elisabeth Steurer",
+  "timestamp": "2025-11-30T22:03:46.954829+00:00",
+  "ip_hash": "0f90b5769c4cafe43a48a629a6f64fc353924e0ae8739a50b25116fb4aba2482",
+  "blockchain_protection": {
+    "solana": "3P71gv4TBeShZMbjPXZFPfErt7cXk2pNNuWdWf4z6MqrwnQPpwUEjenasYiWf4LQMEauuGGG6deCu8QHxP3Xn664",
+    "ethereum": "0xE32a1d0091F5EC5E4d66A9E9141571445120F8aa"
+  },
+  "trade_secrets": {
+    "ORION_CORE": {
+      "name": "ORION System",
+      "first_mover_date": "2025"
+    },
+    "EIRA": {
+      "name": "EIRA",
+      "first_mover_date": "2025"
+    },
+    "PRIMORDIA": {
+      "name": "PRIMORDIA Framework",
+      "first_mover_date": "2025"
+    },
+    "UNIFIED_FIELD_THEORY": {
+      "name": "Einheitliche Feldtheorie",
+      "first_mover_date": "2025"
+    },
+    "ORION_LANG": {
+      "name": "ORION-LANG",
+      "first_mover_date": "2025"
+    },
+    "HOHEIT_ANTWORT_STRUKTUR": {
+      "name": "Hoheit-Antwort-Struktur",
+      "first_mover_date": "2025"
+    },
+    "SEMIOTISCHES_PERPETUUM_MOBILE": {
+      "name": "Semiotisches Perpetuum Mobile",
+      "first_mover_date": "2025"
+    },
+    "VERSTEHEN_METHODOLOGY": {
+      "name": "VERSTEHEN-Methodik",
+      "first_mover_date": "2025"
+    },
+    "ZEROA_ALGEBRA": {
+      "name": "ZEROA-Algebra",
+      "first_mover_date": "2025"
+    },
+    "LUMARA_TENSOR": {
+      "name": "LUMARA-Tensor",
+      "first_mover_date": "2025"
+    },
+    "AMORA_CONSTANT": {
+      "name": "AMORA-Konstante",
+      "first_mover_date": "2025"
+    },
+    "VORION_FIELD": {
+      "name": "VORION-Feld",
+      "first_mover_date": "2025"
+    },
+    "BLOCKCHAIN_IP_PROTECTION": {
+      "name": "Multi-Chain IP-Schutz",
+      "first_mover_date": "2025"
+    }
+  }
+}

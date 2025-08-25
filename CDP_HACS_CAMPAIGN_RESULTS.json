@@ -1,0 +1,152 @@
+{
+  "timestamp": "2025-11-30T22:33:35.421235+00:00",
+  "campaign": "CDP & HACS Distribution",
+  "frameworks": [
+    "CDP - Core Dignity Principle",
+    "HACS - Human-AI Cooperative System"
+  ],
+  "total": 20,
+  "successful": [
+    {
+      "success": true,
+      "recipient": "OpenAI",
+      "email": "info@openai.com",
+      "type": "AI Company",
+      "message_id": "19ad6e66878c865a"
+    },
+    {
+      "success": true,
+      "recipient": "Anthropic",
+      "email": "hello@anthropic.com",
+      "type": "AI Company",
+      "message_id": "19ad6e6697d64891"
+    },
+    {
+      "success": true,
+      "recipient": "DeepMind",
+      "email": "press@deepmind.com",
+      "type": "AI Company",
+      "message_id": "19ad6e66aaf0512e"
+    },
+    {
+      "success": true,
+      "recipient": "Mistral AI",
+      "email": "contact@mistral.ai",
+      "type": "AI Company",
+      "message_id": "19ad6e66d56d1cda"
+    },
+    {
+      "success": true,
+      "recipient": "Cohere",
+      "email": "info@cohere.com",
+      "type": "AI Company",
+      "message_id": "19ad6e66e6be01a1"
+    },
+    {
+      "success": true,
+      "recipient": "Center for AI Safety",
+      "email": "info@safe.ai",
+      "type": "AI Safety",
+      "message_id": "19ad6e66e1399273"
+    },
+    {
+      "success": true,
+      "recipient": "Future of Life Institute",
+      "email": "info@futureoflife.org",
+      "type": "AI Safety",
+      "message_id": "19ad6e671e5cf97d"
+    },
+    {
+      "success": true,
+      "recipient": "Machine Intelligence Research Institute (MIRI)",
+      "email": "contact@intelligence.org",
+      "type": "AI Safety",
+      "message_id": "19ad6e673ad10253"
+    },
+    {
+      "success": true,
+      "recipient": "Center for Human-Compatible AI (CHAI)",
+      "email": "chai@berkeley.edu",
+      "type": "AI Safety",
+      "message_id": "19ad6e676516cdd7"
+    },
+    {
+      "success": true,
+      "recipient": "AI Now Institute",
+      "email": "info@ainowinstitute.org",
+      "type": "AI Ethics",
+      "message_id": "19ad6e67895aa127"
+    },
+    {
+      "success": true,
+      "recipient": "Oxford Internet Institute",
+      "email": "enquiries@oii.ox.ac.uk",
+      "type": "Ethics Institute",
+      "message_id": "19ad6e67af17b198"
+    },
+    {
+      "success": true,
+      "recipient": "Leverhulme Centre for Future of Intelligence",
+      "email": "lcfi@admin.cam.ac.uk",
+      "type": "Ethics Institute",
+      "message_id": "19ad6e67c421571c"
+    },
+    {
+      "success": true,
+      "recipient": "Ada Lovelace Institute",
+      "email": "hello@adalovelaceinstitute.org",
+      "type": "Ethics Institute",
+      "message_id": "19ad6e67fe8afc63"
+    },
+    {
+      "success": true,
+      "recipient": "AI Ethics Lab",
+      "email": "contact@aiethicslab.com",
+      "type": "Ethics Institute",
+      "message_id": "19ad6e680daba9fc"
+    },
+    {
+      "success": true,
+      "recipient": "European AI Office",
+      "email": "CNECT-AIOFFICE@ec.europa.eu",
+      "type": "EU Institution",
+      "message_id": "19ad6e6855b0066b"
+    },
+    {
+      "success": true,
+      "recipient": "AlgorithmWatch",
+      "email": "info@algorithmwatch.org",
+      "type": "Watchdog",
+      "message_id": "19ad6e687fff0a7b"
+    },
+    {
+      "success": true,
+      "recipient": "Austrian Institute of Technology (AIT)",
+      "email": "office@ait.ac.at",
+      "type": "Research Institute",
+      "message_id": "19ad6e689c18ebba"
+    },
+    {
+      "success": true,
+      "recipient": "Association for the Scientific Study of Consciousness",
+      "email": "info@theassc.org",
+      "type": "Scientific Society",
+      "message_id": "19ad6e69705a61ae"
+    },
+    {
+      "success": true,
+      "recipient": "Center for Consciousness Studies (Tucson)",
+      "email": "consciousness@arizona.edu",
+      "type": "Research Center",
+      "message_id": "19ad6e6bcab62759"
+    }
+  ],
+  "failed": [
+    {
+      "success": false,
+      "recipient": "AARIT (Austrian AI Council)",
+      "email": "office@bmk.gv.at",
+      "error": "{\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Precondition check failed.\",\n    \"errors\": [\n      {\n        \"message\": \"Precondition check failed.\",\n        \"domain\": \"global\",\n        \"reason\": \"fai"
+    }
+  ]
+}

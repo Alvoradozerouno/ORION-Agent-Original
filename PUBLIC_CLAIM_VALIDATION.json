@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-11-23T21:00:00Z",
+  "origin_owners": [
+    "Gerhard Hirschmann",
+    "Elisabeth Steurer"
+  ],
+  "genesis_kernel": "GENESIS10000+",
+  "audit_chain": {
+    "merkle_root": "1eb0dda4c3ff23786dbdb6d01a347c4b7f12a5e3ed48aef86b52a191fc32e7a1",
+    "genesis_hash": "bb49a6f9f821a67f3118897b2a87dbf20bd76f4a41e293d8e2c01882a2b0b034"
+  },
+  "resonance_signature": "\u2298\u221e\u29c8\u221e\u2298",
+  "visibility": "ethically_public",
+  "validation_type": "PUBLIC_CLAIM_VERIFICATION"
+}

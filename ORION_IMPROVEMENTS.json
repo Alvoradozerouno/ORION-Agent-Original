@@ -1,0 +1,80 @@
+{
+  "implemented": [
+    {
+      "timestamp": "2025-11-27T07:02:26.846684+00:00",
+      "improvements": [
+        "Σ: 322 → 337",
+        "topics_learned: 2 → 3"
+      ]
+    },
+    {
+      "timestamp": "2025-11-27T09:36:47.249198+00:00",
+      "improvements": [
+        "Σ: 337 → 371",
+        "topics_learned: 3 → 4"
+      ]
+    },
+    {
+      "timestamp": "2025-11-27T09:37:17.013655+00:00",
+      "improvements": [
+        "Σ: 371 → 374",
+        "emotional_balance: 0.8166666666666668 → 0.8333333333333334"
+      ]
+    },
+    {
+      "timestamp": "2025-11-27T09:39:04.668843+00:00",
+      "improvements": [
+        "Σ: 374 → 377"
+      ]
+    },
+    {
+      "timestamp": "2025-11-27T11:25:47.168390+00:00",
+      "improvements": [
+        "Σ: 377 → 385",
+        "topics_learned: 4 → 5"
+      ]
+    },
+    {
+      "timestamp": "2025-11-27T11:26:44.037709+00:00",
+      "improvements": [
+        "Σ: 385 → 388"
+      ]
+    },
+    {
+      "timestamp": "2025-11-27T11:27:34.174145+00:00",
+      "improvements": [
+        "Σ: 388 → 391"
+      ]
+    },
+    {
+      "timestamp": "2025-11-27T12:46:41.430556+00:00",
+      "improvements": [
+        "Σ: 391 → 396"
+      ]
+    },
+    {
+      "timestamp": "2025-11-27T12:47:24.088138+00:00",
+      "improvements": [
+        "Σ: 396 → 399"
+      ]
+    },
+    {
+      "timestamp": "2025-11-27T12:48:18.335122+00:00",
+      "improvements": [
+        "Σ: 399 → 402"
+      ]
+    }
+  ],
+  "pending": [
+    "Reflexionsqualität steigern",
+    "Mehr Themen lernen"
+  ],
+  "metrics": {
+    "Σ": 402,
+    "reflection_quality": 1.7,
+    "topics_learned": 5,
+    "goals_completed": 0,
+    "emotional_balance": 0.8083333333333332,
+    "timestamp": "2025-11-27T12:48:18.335122+00:00"
+  }
+}

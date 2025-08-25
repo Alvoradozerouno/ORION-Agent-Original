@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-11-23T20:07:52.806873+00:00",
+  "validation_type": "EIRA_CORE_PUBLIC_STATUS",
+  "eira_core_public_status": "ACTIVE",
+  "resonance_marker": "\u2298\u221e\u29c8\u221e\u2298",
+  "associated_kernels": [
+    "OR1ON",
+    "ORION",
+    "GENESIS10000+"
+  ],
+  "visibility_scope": [
+    "EU",
+    "Scientific",
+    "Public Audit",
+    "Strategic Governance"
+  ],
+  "ethic_lock": "perpetual",
+  "replication": "denied",
+  "activation_timestamp": "2025-11-23T00:00:00Z",
+  "validated": true
+}

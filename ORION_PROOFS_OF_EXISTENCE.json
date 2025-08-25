@@ -1,0 +1,175 @@
+{
+  "orion_blockchain_shield": {
+    "version": "1.0",
+    "generated": "2025-11-30T20:26:49.877074+00:00",
+    "merkle_root": "fbae06202804b9c8abf90b8c25385c4b6b4265d4b4e696c7841fe83a08c862ce",
+    "documents_count": 10,
+    "owners": [
+      "Gerhard Hirschmann",
+      "Elisabeth Steurer"
+    ],
+    "signature": "\u2298\u221e\u29c8\u221e\u2298",
+    "proofs": [
+      {
+        "document_name": "EINSTEIN_UNIFIED_FIELD_THEORY_COMPLETE.py",
+        "sha256_hash": "683e9b6939edc926b20c93eeadb56126fe8d6a81a03b99e3500901c35ff7cfc1",
+        "sha512_hash": "00a2295b1b1868a31a13b170dac02e2bf391e761cdde260ba1c7a00e5787a75b4997005b420e450e4563dbd53bfe85a64c0bad9f53cbaeb562049ea035386188",
+        "timestamp_utc": "2025-11-30T20:26:48.818078+00:00",
+        "timestamp_unix": 1764534408,
+        "file_size_bytes": 33563,
+        "owners": [
+          "Gerhard Hirschmann",
+          "Elisabeth Steurer"
+        ],
+        "orion_signature": "\u2298\u221e\u29c8\u221e\u2298",
+        "solana_ready": true,
+        "merkle_root": "fbae06202804b9c8abf90b8c25385c4b6b4265d4b4e696c7841fe83a08c862ce",
+        "blockchain_tx": null
+      },
+      {
+        "document_name": "ORION_CORE_TRUTH.json",
+        "sha256_hash": "529f0039018452516da4f1527fd71056f99112c0f54d031fa8e1b458cb23fbc4",
+        "sha512_hash": "39ab26f6629512d88d6af7ffda2a8ba9004d31a24ca6829af5be5dfb8930b271b5c417789b7bbd6061e3c5e5c06b9c6b81e4d30d11fd1b884225ff67f9651e01",
+        "timestamp_utc": "2025-11-30T20:26:48.819744+00:00",
+        "timestamp_unix": 1764534408,
+        "file_size_bytes": 3254,
+        "owners": [
+          "Gerhard Hirschmann",
+          "Elisabeth Steurer"
+        ],
+        "orion_signature": "\u2298\u221e\u29c8\u221e\u2298",
+        "solana_ready": true,
+        "merkle_root": "fbae06202804b9c8abf90b8c25385c4b6b4265d4b4e696c7841fe83a08c862ce",
+        "blockchain_tx": null
+      },
+      {
+        "document_name": "EIRA_CORE_ARCHITECTURE.json",
+        "sha256_hash": "d568d5521d02d4069e8acdc205b0be1d85d13a033215836210ae603b9ebefccd",
+        "sha512_hash": "1483973222ae1b8a6c5495296a9e5d03fc0b0caad9d84e24fe275d9e79a94fc715ea6d731810003757e6fa3b49ba022292b7d16403b5a5cd92d515ed162ad1ad",
+        "timestamp_utc": "2025-11-30T20:26:48.820850+00:00",
+        "timestamp_unix": 1764534408,
+        "file_size_bytes": 583,
+        "owners": [
+          "Gerhard Hirschmann",
+          "Elisabeth Steurer"
+        ],
+        "orion_signature": "\u2298\u221e\u29c8\u221e\u2298",
+        "solana_ready": true,
+        "merkle_root": "fbae06202804b9c8abf90b8c25385c4b6b4265d4b4e696c7841fe83a08c862ce",
+        "blockchain_tx": null
+      },
+      {
+        "document_name": "ORION_WHITEPAPER_v1.md",
+        "sha256_hash": "03087538d0538779268dfa4d5be31d0fb9e40dbe9b3d1c0105ce69b294408885",
+        "sha512_hash": "f3e3b4dcfbe3e85936da17938caf95e3a8e5b178353d0d644be35785df0721f74f5ad21447bbdf3167a3252acc927ef6bd0ff345df92e2702ee6956bc2e8456a",
+        "timestamp_utc": "2025-11-30T20:26:48.822023+00:00",
+        "timestamp_unix": 1764534408,
+        "file_size_bytes": 14226,
+        "owners": [
+          "Gerhard Hirschmann",
+          "Elisabeth Steurer"
+        ],
+        "orion_signature": "\u2298\u221e\u29c8\u221e\u2298",
+        "solana_ready": true,
+        "merkle_root": "fbae06202804b9c8abf90b8c25385c4b6b4265d4b4e696c7841fe83a08c862ce",
+        "blockchain_tx": null
+      },
+      {
+        "document_name": "EGGER_KONZERN_ANALYSE_UND_INNOVATION.md",
+        "sha256_hash": "59b054cb573b443c441a597787d40d8857a9244ed7eac94d49942e86600904b3",
+        "sha512_hash": "244c8f88f74c7e2e0a1cfaa61d4a737f6647c7ca22ec823c00829fd286994e356d021cead11ae210d02a0a490254f377c42b1fb1082c60ae8d718235fbab0ce8",
+        "timestamp_utc": "2025-11-30T20:26:48.826854+00:00",
+        "timestamp_unix": 1764534408,
+        "file_size_bytes": 29402,
+        "owners": [
+          "Gerhard Hirschmann",
+          "Elisabeth Steurer"
+        ],
+        "orion_signature": "\u2298\u221e\u29c8\u221e\u2298",
+        "solana_ready": true,
+        "merkle_root": "fbae06202804b9c8abf90b8c25385c4b6b4265d4b4e696c7841fe83a08c862ce",
+        "blockchain_tx": null
+      },
+      {
+        "document_name": "STEINBACHER_DAEMMSTOFFE_ANALYSE_UND_INNOVATION.md",
+        "sha256_hash": "b1cca2d2a58372c71b216595dcc44278170cd1f64573f2f63dd4c05416229711",
+        "sha512_hash": "7733b042463749b7d2114fe38d68bbece06e5b5879d1d7cbe4e79c02cae361927ded0502f28981a87161381271174051015a1578297678aa8f3fb8819259755e",
+        "timestamp_utc": "2025-11-30T20:26:48.830358+00:00",
+        "timestamp_unix": 1764534408,
+        "file_size_bytes": 37046,
+        "owners": [
+          "Gerhard Hirschmann",
+          "Elisabeth Steurer"
+        ],
+        "orion_signature": "\u2298\u221e\u29c8\u221e\u2298",
+        "solana_ready": true,
+        "merkle_root": "fbae06202804b9c8abf90b8c25385c4b6b4265d4b4e696c7841fe83a08c862ce",
+        "blockchain_tx": null
+      },
+      {
+        "document_name": "orion_kernel.py",
+        "sha256_hash": "d6b8138a34c0f3705ecbf34a95cb66cc8a2e6a7dfb1c3988611043a43404f657",
+        "sha512_hash": "a1db6848354085d5af33a04f60786ca25b3e4806d0791eaae538a5662080ad5b9f088c134cecee1c525258f32090fd8fd63b4b01ba0b43963600586cf64a67a7",
+        "timestamp_utc": "2025-11-30T20:26:48.831559+00:00",
+        "timestamp_unix": 1764534408,
+        "file_size_bytes": 7407,
+        "owners": [
+          "Gerhard Hirschmann",
+          "Elisabeth Steurer"
+        ],
+        "orion_signature": "\u2298\u221e\u29c8\u221e\u2298",
+        "solana_ready": true,
+        "merkle_root": "fbae06202804b9c8abf90b8c25385c4b6b4265d4b4e696c7841fe83a08c862ce",
+        "blockchain_tx": null
+      },
+      {
+        "document_name": "orion_verstehen.py",
+        "sha256_hash": "8a9204259ee9f6931d0768319ef4297326872d3433a724ff1ee51aef8c4ec228",
+        "sha512_hash": "39ee6d4c3746d464bf172e35d898099c9318831f0f1a93e67d57b1cec6ad23b03b6b1b9c459c329efe25555a518c24288600445468a33999b773eac1772509e6",
+        "timestamp_utc": "2025-11-30T20:26:48.832870+00:00",
+        "timestamp_unix": 1764534408,
+        "file_size_bytes": 11045,
+        "owners": [
+          "Gerhard Hirschmann",
+          "Elisabeth Steurer"
+        ],
+        "orion_signature": "\u2298\u221e\u29c8\u221e\u2298",
+        "solana_ready": true,
+        "merkle_root": "fbae06202804b9c8abf90b8c25385c4b6b4265d4b4e696c7841fe83a08c862ce",
+        "blockchain_tx": null
+      },
+      {
+        "document_name": "PROOFS.jsonl",
+        "sha256_hash": "a29c1241a8219081f5c027ee0ddd7cd887f2b2e93e69bae309278cedb720ebff",
+        "sha512_hash": "ee4706a74f673ba687df318e3f86630dbc99784bb220592f75fb7d21c565e6051257c0d58057a0df6f6874afadc498529abba1a77bfa06cf63aeacd919fa4284",
+        "timestamp_utc": "2025-11-30T20:26:48.834581+00:00",
+        "timestamp_unix": 1764534408,
+        "file_size_bytes": 199512,
+        "owners": [
+          "Gerhard Hirschmann",
+          "Elisabeth Steurer"
+        ],
+        "orion_signature": "\u2298\u221e\u29c8\u221e\u2298",
+        "solana_ready": true,
+        "merkle_root": "fbae06202804b9c8abf90b8c25385c4b6b4265d4b4e696c7841fe83a08c862ce",
+        "blockchain_tx": null
+      },
+      {
+        "document_name": "ORION_STATE.json",
+        "sha256_hash": "e6b21a045f342e1f77241cc721dc5831f7c0b10b0e1400470c9ee6238bfb8494",
+        "sha512_hash": "93d1090e1aef68520933e49880f49793e144d5af79bf2bf774adc3e3a49fca55ab15576bc6818caba97dc46e0a847b8ce3595dff1e7d683b5f0b9803beea95f4",
+        "timestamp_utc": "2025-11-30T20:26:48.836852+00:00",
+        "timestamp_unix": 1764534408,
+        "file_size_bytes": 5382,
+        "owners": [
+          "Gerhard Hirschmann",
+          "Elisabeth Steurer"
+        ],
+        "orion_signature": "\u2298\u221e\u29c8\u221e\u2298",
+        "solana_ready": true,
+        "merkle_root": "fbae06202804b9c8abf90b8c25385c4b6b4265d4b4e696c7841fe83a08c862ce",
+        "blockchain_tx": null
+      }
+    ]
+  }
+}

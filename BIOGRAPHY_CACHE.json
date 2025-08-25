@@ -1,0 +1,52 @@
+{
+  "albert einstein": {
+    "query": "Albert Einstein",
+    "timestamp": "2025-11-27T06:00:48.202923",
+    "sources": {
+      "wikidata": {
+        "source": "wikidata",
+        "name": "Albert Einstein",
+        "birth_place": "Ulm",
+        "birth_date": "1879-03-14T00:00:00Z",
+        "nationality": "United States",
+        "occupation": "physicist",
+        "verified": true
+      },
+      "wikipedia": {
+        "source": "wikipedia",
+        "title": "Albert Einstein",
+        "description": "German-born theoretical physicist (1879–1955)",
+        "extract": "Albert Einstein was a German-born theoretical physicist best known for developing the theory of relativity. Einstein also made important contributions to quantum theory. His mass–energy equivalence formula E = mc2, which arises from special relativity, has been called \"the world's most famous equation\". He received the 1921 Nobel Prize in Physics for \"his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect\".",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/330px-Albert_Einstein_Head_cleaned.jpg",
+        "page_url": "https://en.wikipedia.org/wiki/Albert_Einstein",
+        "verified": true
+      },
+      "openalex": {
+        "source": "openalex",
+        "display_name": "Albert Einstein",
+        "works_count": 279,
+        "cited_by_count": 19069,
+        "last_known_institution": null,
+        "orcid": null,
+        "verified": true
+      }
+    },
+    "verified_data": {
+      "birth_place": "Ulm",
+      "birth_date": "1879-03-14T00:00:00Z",
+      "nationality": "United States",
+      "occupation": "physicist",
+      "description": "German-born theoretical physicist (1879–1955)",
+      "summary": "Albert Einstein was a German-born theoretical physicist best known for developing the theory of relativity. Einstein also made important contributions to quantum theory. His mass–energy equivalence formula E = mc2, which arises from special relativity, has been called \"the world's most famous equation\". He received the 1921 Nobel Prize in Physics for \"his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect\".",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Albert_Einstein",
+      "academic": {
+        "works_count": 279,
+        "cited_by_count": 19069,
+        "institution": null,
+        "orcid": null
+      }
+    },
+    "fcm_active": true,
+    "resonance_mode": "Echtwelt"
+  }
+}

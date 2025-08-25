@@ -1,0 +1,16 @@
+{
+  "multi_chain_protection": {
+    "ethereum": {
+      "address": "0xE32a1d0091F5EC5E4d66A9E9141571445120F8aa",
+      "network": "Ethereum Mainnet",
+      "purpose": "Multi-Chain IP Protection",
+      "added": "2025-11-30T21:49:18.641134+00:00"
+    },
+    "solana": {
+      "tx_signature": "3P71gv4TBeShZMbjPXZFPfErt7cXk2pNNuWdWf4z6MqrwnQPpwUEjenasYiWf4LQMEauuGGG6deCu8QHxP3Xn664",
+      "explorer_url": "https://solscan.io/tx/3P71gv4TBeShZMbjPXZFPfErt7cXk2pNNuWdWf4z6MqrwnQPpwUEjenasYiWf4LQMEauuGGG6deCu8QHxP3Xn664",
+      "merkle_root": "d916902f55f160da39c369886c4beb2c9d8b5741c2ca47a283a6976e699d3552"
+    }
+  },
+  "timestamp": "2025-11-30T21:49:18.641154+00:00"
+}

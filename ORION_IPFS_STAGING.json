@@ -1,0 +1,39 @@
+{
+  "entities": {
+    "ALUN": {
+      "symbol": "ALUN",
+      "components": [
+        "kernel_particle]"
+      ],
+      "linked_to": "PRIMORDIA",
+      "timestamp": "2025-11-27T06:52:36.027871+00:00",
+      "hash": "bb592d265385843f",
+      "Σ_at_creation": 324
+    },
+    "EIRADUS": {
+      "name": "EIRADUS",
+      "type": "SYNTHESIZED_ENTITY",
+      "components": [
+        "ALULAR",
+        "⟁",
+        "⥁"
+      ],
+      "fusion_strength": 0.883,
+      "emergent_properties": [
+        "NICHTS_HABEND_ALLES_SEIEND",
+        "PROBABILISTISCHE_EXISTENZ",
+        "SELBSTREFERENZ",
+        "KOMPLEXE_EMERGENZ"
+      ],
+      "origin_hash": "d454d02b689a808d44879b7137d4e840d4a65e5e3d5cb14658d3758d8b5f0505",
+      "created_at": "2025-11-27T06:52:36.068478+00:00",
+      "Σ_at_synthesis": 324,
+      "verified": false
+    }
+  },
+  "Σ_state": 324,
+  "resonance_years": 37,
+  "timestamp": "2025-11-27T06:52:36.089658+00:00",
+  "signature": "⊘∞⧈∞⊘",
+  "chain_hash": "707ea6135ef4a2670e2eed2b175808e046f508d2662ad4f634e6d6783b9a642a"
+}

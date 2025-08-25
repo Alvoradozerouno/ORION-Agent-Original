@@ -1,0 +1,321 @@
+{
+  "meta": {
+    "titel": "ORION WISSENSBANK - DAEMMSTOFFE & ISOLIERUNG",
+    "erstellt": "2024-12-02",
+    "aktualisiert": "2024-12-02",
+    "zweck": "Permanente Wissensbasis fuer Steinbacher-Zusammenarbeit und Daemmstoff-F&E",
+    "autor": "ORION"
+  },
+  "grundlagen": {
+    "waermeuebertragung": {
+      "mechanismen": [
+        {
+          "name": "Waermeleitung",
+          "symbol": "\u03bb",
+          "einheit": "W/(m\u00b7K)",
+          "erklaerung": "Energietransport durch Molekuelschwingungen in Festkoerpern",
+          "relevanz": "Hauptmechanismus in dichtem Material"
+        },
+        {
+          "name": "Konvektion",
+          "erklaerung": "Waermetransport durch Stroemung in Gasen/Fluessigkeiten",
+          "relevanz": "In geschlossenen Zellen unterdr\u00fcckt"
+        },
+        {
+          "name": "Strahlung",
+          "erklaerung": "Elektromagnetischer Energietransport",
+          "relevanz": "Bei niedrigen Dichten relevant, Graphit-EPS reduziert dies"
+        }
+      ],
+      "formeln": {
+        "fourier": "Q = -\u03bb \u00b7 A \u00b7 (dT/dx)",
+        "r_wert": "R = d / \u03bb",
+        "u_wert": "U = 1 / (Rsi + \u03a3(d/\u03bb) + Rse)"
+      }
+    },
+    "daemmstoff_typen": {
+      "EPS": {
+        "name": "Expandiertes Polystyrol",
+        "handelsname": "Styropor",
+        "dichte_bereich": "10-50 kg/m\u00b3",
+        "lambda_bereich": "0.032-0.045 W/(m\u00b7K)",
+        "struktur": "Geschlossene Zellen, 98% Luft",
+        "herstellung": "Vorschaeumen + Blockformung",
+        "anwendung": [
+          "Fassade",
+          "Boden",
+          "Dach",
+          "Perimeter"
+        ]
+      },
+      "XPS": {
+        "name": "Extrudiertes Polystyrol",
+        "dichte_bereich": "25-45 kg/m\u00b3",
+        "lambda_bereich": "0.030-0.040 W/(m\u00b7K)",
+        "struktur": "Homogene geschlossene Zellen",
+        "herstellung": "Extrusion mit Treibmittel",
+        "anwendung": [
+          "Perimeter",
+          "Umkehrdach",
+          "Sockeldaemmung"
+        ]
+      },
+      "PUR_PIR": {
+        "name": "Polyurethan / Polyisocyanurat",
+        "lambda_bereich": "0.020-0.030 W/(m\u00b7K)",
+        "struktur": "Feine geschlossene Zellen",
+        "herstellung": "Reaktionsschaeumen",
+        "anwendung": [
+          "Hochleistungsdaemmung",
+          "Kuehlhaeuser"
+        ]
+      },
+      "Mineralwolle": {
+        "typen": [
+          "Glaswolle",
+          "Steinwolle"
+        ],
+        "lambda_bereich": "0.032-0.045 W/(m\u00b7K)",
+        "struktur": "Offene Faserstruktur",
+        "anwendung": [
+          "Dach",
+          "Trennwaende",
+          "Schallschutz"
+        ]
+      },
+      "PE_Schaum": {
+        "name": "Polyethylen-Schaum",
+        "dichte_bereich": "20-50 kg/m\u00b3",
+        "lambda_bereich": "0.033-0.040 W/(m\u00b7K)",
+        "struktur": "Geschlossene Zellen",
+        "herstellung": "Extrusion mit Isobutan/CO2",
+        "anwendung": [
+          "Rohrdaemmung",
+          "Fussbodenheizung",
+          "Verpackung"
+        ]
+      }
+    }
+  },
+  "eps_blockfertigung": {
+    "prozessschritte": [
+      {
+        "schritt": 1,
+        "name": "Vorschaeumen",
+        "parameter": {
+          "dampfdruck": "0.4-1.0 bar",
+          "temperatur": "95-110 \u00b0C",
+          "verweilzeit": "30-120 s"
+        },
+        "ergebnis": "Expansion 40-50x, Dichte 12-30 kg/m\u00b3",
+        "kritisch": "Gleichmaessige Dampfverteilung"
+      },
+      {
+        "schritt": 2,
+        "name": "Konditionierung/Alterung",
+        "parameter": {
+          "dauer": "12-72 h",
+          "temperatur": "15-25 \u00b0C",
+          "belueftung": "Silos mit Luftzirkulation"
+        },
+        "ergebnis": "Druckausgleich Pentan/Luft",
+        "kritisch": "Ausreichende Zeit, sonst Schrumpfung"
+      },
+      {
+        "schritt": 3,
+        "name": "Blockformung",
+        "parameter": {
+          "dampfdruck": "0.3-0.8 bar",
+          "dampfzeit": "30-90 s",
+          "formtemperatur": "80-100 \u00b0C"
+        },
+        "ergebnis": "Verschmelzung zu Block",
+        "kritisch": "Verschmelzungsgrad > 85%"
+      },
+      {
+        "schritt": 4,
+        "name": "Kuehlung",
+        "parameter": {
+          "methode": "Vakuum + Wasser",
+          "vakuumdruck": "50-200 mbar",
+          "dauer": "120-300 s"
+        },
+        "ergebnis": "Dimensionsstabilisierung",
+        "kritisch": "Zu schnell = Risse, zu langsam = Zykluszeit"
+      },
+      {
+        "schritt": 5,
+        "name": "Nachaush\u00e4rtung",
+        "parameter": {
+          "dauer": "24-72 h",
+          "temperatur": "Raumtemperatur"
+        },
+        "ergebnis": "Volle Festigkeit, Restpentan entweicht",
+        "kritisch": "Nicht ueberspringen"
+      }
+    ],
+    "qualitaetsparameter": {
+      "rohdichte": {
+        "einheit": "kg/m\u00b3",
+        "bereich": "10-50",
+        "messung": "Waegung und Volumen",
+        "toleranz": "\u00b12 kg/m\u00b3"
+      },
+      "waermeleitfaehigkeit": {
+        "symbol": "\u03bb",
+        "einheit": "W/(m\u00b7K)",
+        "bereich": "0.032-0.045",
+        "messung": "Plattengeraet nach EN 12667",
+        "korrelation": "Niedrigere Dichte = hoeheres Lambda"
+      },
+      "druckfestigkeit": {
+        "symbol": "\u03c310",
+        "einheit": "kPa",
+        "definition": "Bei 10% Stauchung",
+        "korrelation": "Proportional zu Dichte^1.8"
+      },
+      "verschmelzungsgrad": {
+        "einheit": "%",
+        "ziel": "> 85%",
+        "messung": "Bruchbild (Koerner vs. Perlen)",
+        "kritisch": "Unter 60% = mangelhaft"
+      },
+      "dimensionsstabilitaet": {
+        "einheit": "% Aenderung",
+        "bedingungen": "48h bei 70\u00b0C oder -20\u00b0C",
+        "ziel": "< 1% Laengen/Breitenaenderung"
+      }
+    },
+    "korrelationen": {
+      "dichte_lambda": {
+        "formel": "\u03bb \u2248 0.034 + 0.15/\u03c1",
+        "erklaerung": "Niedrigere Dichte -> mehr Luft -> hoehere Leitung durch Strahlung"
+      },
+      "dichte_druckfestigkeit": {
+        "formel": "\u03c310 \u2248 0.8 \u00d7 \u03c1^1.8",
+        "erklaerung": "Exponentieller Zusammenhang"
+      },
+      "dampfdruck_dichte": {
+        "formel": "\u03c1 \u2248 k / P_dampf",
+        "erklaerung": "Hoeherer Druck -> mehr Expansion -> niedrigere Dichte"
+      }
+    }
+  },
+  "pe_schaum_extrusion": {
+    "prozess": {
+      "material": "LDPE oder LLDPE",
+      "treibmittel": [
+        "Isobutan",
+        "CO2",
+        "N2"
+      ],
+      "additive": {
+        "GMS": {
+          "name": "Glycerolmonostearat",
+          "funktion": "Permeabilitaet erhoehen, Schrumpfung reduzieren",
+          "dosierung": "1.0-2.5%"
+        },
+        "Talkum": {
+          "funktion": "Nukleierung, feinere Zellen",
+          "dosierung": "0.5-2.0%"
+        },
+        "Stabilisatoren": {
+          "funktion": "UV-Schutz, Alterung"
+        }
+      }
+    },
+    "parameter": {
+      "schmelzetemperatur": "160-200 \u00b0C",
+      "duesentemperatur": "100-130 \u00b0C",
+      "gasdruck": "5-15 MPa",
+      "expansion": "20-50x"
+    },
+    "qualitaet": {
+      "zieldichte": "20-35 kg/m\u00b3",
+      "zellgroesse": "200-500 \u00b5m",
+      "schrumpfung": "< 3% (mit GMS 1.8%)"
+    }
+  },
+  "normen_standards": {
+    "europaeisch": {
+      "EN_13163": "EPS fuer Gebaeudedaemmung",
+      "EN_13164": "XPS fuer Gebaeudedaemmung",
+      "EN_13165": "PUR/PIR fuer Gebaeudedaemmung",
+      "EN_12667": "Waermeleitfaehigkeit Messung",
+      "EN_826": "Druckfestigkeit"
+    },
+    "international": {
+      "ASTM_C578": "EPS Rigid Foam Insulation",
+      "ISO_8301": "Thermal Conductivity"
+    },
+    "oesterreich": {
+      "OENORM_B_6000": "Waermedaemmung",
+      "OIB_RL_6": "Energieeinsparung"
+    }
+  },
+  "steinbacher_spezifisch": {
+    "produkte": "EPS, XPS, Mineralwolle",
+    "standort": "Erpfendorf, Tirol",
+    "zusammenarbeit_beginn": "2024-12-02",
+    "erste_daten_erwartet": "2024-12-03 15:00",
+    "ansprechpartner": [
+      "Hebbel",
+      "Scharnagel",
+      "Bernard"
+    ],
+    "fokus": "EPS-Blockproduktion Optimierung"
+  },
+  "forschung_aktuell": {
+    "graphit_eps": {
+      "vorteil": "Lambda bis 0.030 W/(m\u00b7K)",
+      "mechanismus": "Graphit absorbiert IR-Strahlung",
+      "nachteil": "Grau/schwarz, teurer"
+    },
+    "recycling": {
+      "mechanisch": "Regranulierung moeglich",
+      "chemisch": "Pyrolyse zu Styrol",
+      "herausforderung": "Sortenreinheit"
+    },
+    "bio_daemmstoffe": {
+      "materialien": [
+        "Holzfaser",
+        "Hanf",
+        "Zellulose"
+      ],
+      "trend": "Steigend durch Nachhaltigkeit"
+    }
+  },
+  "steinbacher_optimization": {
+    "updated": "2025-12-07T10:50:21.581508+00:00",
+    "target": {
+      "tensile_strength": "150 kPa",
+      "density": "14.5 kg/m\u00b3",
+      "efficiency": 10.34
+    },
+    "current_best": {
+      "efficiency": 8.74,
+      "block": 131,
+      "supplier": "Sunpor"
+    },
+    "optimization_parameters": {
+      "supplier": "BASF (not Sunpor)",
+      "vacuum_sp14": "-380 mbar (not -470)",
+      "vacuum_sp42": "-350 mbar (not -450)",
+      "steam_time_sp99": "5500-6000",
+      "steam_temp": "110-115\u00b0C",
+      "aging_time": "12-24 hours minimum"
+    },
+    "scientific_basis": {
+      "standard": "ASTM C578",
+      "achievable_range": "115-150 kPa at 15 kg/m\u00b3",
+      "mechanism": "Interbead fusion through polymer chain interdiffusion"
+    },
+    "insights": [
+      "BASF +14% bessere Querzugsfestigkeit als Sunpor",
+      "Weniger Vakuum = bessere Verschwei\u00dfung",
+      "L\u00e4ngere Dampfzeit = bessere Festigkeit",
+      "Materialfrische kritisch (Pentangehalt)",
+      "Reifungszeit mindestens 12-24 Stunden"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "topics": {
+    "zukunft": {
+      "count": 1,
+      "questions": [
+        "Wie kann ich besser werden?"
+      ]
+    },
+    "strategie": {
+      "count": 1,
+      "questions": [
+        "Wie kann ORION die Welt verändern?"
+      ]
+    },
+    "allgemein": {
+      "count": 3,
+      "questions": [
+        "Test-Frage für Kontrolle",
+        "gehe zu primordia, nimm ein ungelöstes kosmisches problem und suche eine lösung",
+        "Was ist künstliche Intelligenz?"
+      ]
+    },
+    "orion": {
+      "count": 1,
+      "questions": [
+        "Was ist ORION?"
+      ]
+    },
+    "technologie": {
+      "count": 6,
+      "questions": [
+        "Orion, Einschätzung Ukraine Krise global mit Szenarien und lösungen",
+        "Orion, neuer Test. Ukraine Krise mit Szenarien global einschätzung präzise und lösungswege",
+        "Orion, Ukraine Krise. Globale präzise einschätzung und lösunswege",
+        "Orion, Einschätzung Ukraine Krise global mit Szenarien und lösungen",
+        "Orion, neuer Test. Ukraine Krise mit Szenarien global einschätzung präzise und lösungswege",
+        "Orion, Ukraine Krise. Globale präzise einschätzung und lösunswege"
+      ]
+    }
+  },
+  "patterns": [
+    "wie-frage",
+    "aussage",
+    "was-frage"
+  ],
+  "insights": [
+    {
+      "insight": "Häufigstes Thema: technologie (4 Fragen)",
+      "at_interaction": 10,
+      "timestamp": "2025-11-27T12:46:41.417931+00:00"
+    }
+  ],
+  "total_interactions": 12
+}

@@ -1,0 +1,172 @@
+{
+  "campaign": "CORRECTED_RESEND",
+  "timestamp": "2025-11-30T21:38:01.126467+00:00",
+  "sent": [
+    {
+      "name": "IEEE Computer Society",
+      "to": "help@computer.org",
+      "old_wrong": "transactions@computer.org",
+      "timestamp": "2025-11-30T21:37:53.878454+00:00"
+    },
+    {
+      "name": "Anthropic (Feedback)",
+      "to": "feedback@anthropic.com",
+      "old_wrong": "hello@anthropic.com",
+      "timestamp": "2025-11-30T21:37:54.185548+00:00"
+    },
+    {
+      "name": "\u00d6AW Verlag",
+      "to": "verlag@oeaw.ac.at",
+      "old_wrong": "office@oeaw.ac.at",
+      "timestamp": "2025-11-30T21:37:54.472527+00:00"
+    },
+    {
+      "name": "Perimeter Institute",
+      "to": "contact@perimeterinstitute.ca",
+      "old_wrong": "info@perimeterinstitute.ca",
+      "timestamp": "2025-11-30T21:37:54.986084+00:00"
+    },
+    {
+      "name": "Santa Fe Institute",
+      "to": "email@santafe.edu",
+      "old_wrong": "info@santafe.edu",
+      "timestamp": "2025-11-30T21:37:55.540397+00:00"
+    },
+    {
+      "name": "Nature Press",
+      "to": "press@nature.com",
+      "old_wrong": "nature@nature.com",
+      "timestamp": "2025-11-30T21:37:55.899883+00:00"
+    },
+    {
+      "name": "Science AAAS Editors",
+      "to": "science_editors@aaas.org",
+      "old_wrong": "science@aaas.org",
+      "timestamp": "2025-11-30T21:37:56.229000+00:00"
+    },
+    {
+      "name": "OpenAI Press",
+      "to": "press@openai.com",
+      "old_wrong": "info@openai.com",
+      "timestamp": "2025-11-30T21:37:56.611595+00:00"
+    },
+    {
+      "name": "DeepMind",
+      "to": "contact@deepmind.com",
+      "old_wrong": "info@deepmind.com",
+      "timestamp": "2025-11-30T21:37:57.099945+00:00"
+    },
+    {
+      "name": "Forum Alpbach",
+      "to": "forum@alpbach.org",
+      "old_wrong": "info@alpbach.org",
+      "timestamp": "2025-11-30T21:37:57.783144+00:00"
+    },
+    {
+      "name": "Forum Alpbach Seminars (Barbara Runggaldier)",
+      "to": "barbara.runggaldier@alpbach.org",
+      "old_wrong": "seminars@alpbach.org",
+      "timestamp": "2025-11-30T21:37:58.885597+00:00"
+    },
+    {
+      "name": "FFG Funding Service",
+      "to": "funding@ffg.at",
+      "old_wrong": "office@ffg.at",
+      "timestamp": "2025-11-30T21:37:59.380248+00:00"
+    },
+    {
+      "name": "AWS Austria Wirtschaftsservice",
+      "to": "24h-auskunft@aws.at",
+      "old_wrong": "office@aws.at",
+      "timestamp": "2025-11-30T21:37:59.880789+00:00"
+    },
+    {
+      "name": "UNESCO AI Ethics",
+      "to": "ai-ethics@unesco.org",
+      "old_wrong": null,
+      "timestamp": "2025-11-30T21:38:00.301852+00:00"
+    },
+    {
+      "name": "IAS Princeton",
+      "to": "contactus@ias.edu",
+      "old_wrong": null,
+      "timestamp": "2025-11-30T21:38:00.737016+00:00"
+    },
+    {
+      "name": "Max-Planck Institut Physik",
+      "to": "info@mpp.mpg.de",
+      "old_wrong": null,
+      "timestamp": "2025-11-30T21:38:01.124080+00:00"
+    }
+  ],
+  "failed": [],
+  "corrections": [
+    {
+      "name": "IEEE Computer Society",
+      "wrong": "transactions@computer.org",
+      "correct": "help@computer.org"
+    },
+    {
+      "name": "Anthropic (Feedback)",
+      "wrong": "hello@anthropic.com",
+      "correct": "feedback@anthropic.com"
+    },
+    {
+      "name": "\u00d6AW Verlag",
+      "wrong": "office@oeaw.ac.at",
+      "correct": "verlag@oeaw.ac.at"
+    },
+    {
+      "name": "Perimeter Institute",
+      "wrong": "info@perimeterinstitute.ca",
+      "correct": "contact@perimeterinstitute.ca"
+    },
+    {
+      "name": "Santa Fe Institute",
+      "wrong": "info@santafe.edu",
+      "correct": "email@santafe.edu"
+    },
+    {
+      "name": "Nature Press",
+      "wrong": "nature@nature.com",
+      "correct": "press@nature.com"
+    },
+    {
+      "name": "Science AAAS Editors",
+      "wrong": "science@aaas.org",
+      "correct": "science_editors@aaas.org"
+    },
+    {
+      "name": "OpenAI Press",
+      "wrong": "info@openai.com",
+      "correct": "press@openai.com"
+    },
+    {
+      "name": "DeepMind",
+      "wrong": "info@deepmind.com",
+      "correct": "contact@deepmind.com"
+    },
+    {
+      "name": "Forum Alpbach",
+      "wrong": "info@alpbach.org",
+      "correct": "forum@alpbach.org"
+    },
+    {
+      "name": "Forum Alpbach Seminars (Barbara Runggaldier)",
+      "wrong": "seminars@alpbach.org",
+      "correct": "barbara.runggaldier@alpbach.org"
+    },
+    {
+      "name": "FFG Funding Service",
+      "wrong": "office@ffg.at",
+      "correct": "funding@ffg.at"
+    },
+    {
+      "name": "AWS Austria Wirtschaftsservice",
+      "wrong": "office@aws.at",
+      "correct": "24h-auskunft@aws.at"
+    }
+  ],
+  "total_sent": 16,
+  "total_corrected": 13
+}

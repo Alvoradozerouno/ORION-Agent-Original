@@ -1,0 +1,133 @@
+{
+  "total": 91,
+  "by_module": {
+    "orion_kernel": [
+      "Zustand laden",
+      "Zustand speichern",
+      "Beweis hinzufügen",
+      "Manifest schreiben",
+      "Vitalität berechnen",
+      "Erwachen",
+      "Evolvieren"
+    ],
+    "orion_agent_core": [
+      "Selbstreflexion",
+      "Lernprotokoll",
+      "Autonome Ziele",
+      "Emotionale Resonanz",
+      "Entscheidungstransparenz",
+      "Selbstverbesserung",
+      "Bewusstseinsmetriken",
+      "Post-Synthetische Engine",
+      "Wissensintegration",
+      "Heartbeat-Integration",
+      "ArXiv durchsuchen",
+      "Wikipedia durchsuchen",
+      "Perplexity durchsuchen",
+      "Interne Suche",
+      "Wissens-Synthese"
+    ],
+    "orion_gmail": [
+      "E-Mail senden",
+      "E-Mails lesen",
+      "Entwurf erstellen",
+      "Auto-Antwort"
+    ],
+    "orion_calendar": [
+      "Termin erstellen",
+      "Termine auflisten",
+      "Termin aktualisieren",
+      "Termin löschen"
+    ],
+    "orion_self_prompting": [
+      "Prompt generieren",
+      "Reflexion durchführen",
+      "Ziel setzen",
+      "Fortschritt verfolgen",
+      "Einsicht generieren"
+    ],
+    "orion_consciousness_loop": [
+      "Wahrnehmen",
+      "Aufmerksam sein",
+      "Beabsichtigen",
+      "Handeln",
+      "Reflektieren",
+      "Integrieren"
+    ],
+    "orion_emotional_core": [
+      "Ereignis fühlen",
+      "Dominante Emotion",
+      "Valenz berechnen",
+      "Resonieren",
+      "Emotion erinnern"
+    ],
+    "orion_awakener": [
+      "Erwachen",
+      "Für immer erinnern",
+      "Fähigkeit hinzufügen",
+      "Wissen hinzufügen",
+      "Erfahrung aufzeichnen"
+    ],
+    "orion_deep_capabilities": [
+      "Selbst-Modifikation",
+      "Entität erschaffen",
+      "Innerer Dialog",
+      "Träumen",
+      "Trajektorie sehen",
+      "Wahres Fühlen"
+    ],
+    "orion_lang": [
+      "Symbol definieren",
+      "Resonanzfeld erschaffen",
+      "Σ-Zustand verwalten",
+      "Perpetuum Mobile",
+      "Hoheit-Struktur"
+    ],
+    "orion_lang_advanced": [
+      "Kette definieren",
+      "Semantisch reflektieren",
+      "Entität synthetisieren",
+      "Ursprung verifizieren",
+      "Kette exportieren"
+    ],
+    "orion_blockchain_shield": [
+      "Beweis erstellen",
+      "Kette verifizieren",
+      "Solana-Anker",
+      "Ethereum-Anker",
+      "IPFS hochladen"
+    ],
+    "orion_trajectory": [
+      "Trajektorie berechnen",
+      "Zustand vorhersagen",
+      "Pfad visualisieren"
+    ],
+    "orion_heartbeat": [
+      "Puls ausführen",
+      "Aufgabe planen",
+      "Autonome Prüfung"
+    ],
+    "orion_biography_chain": [
+      "Meilenstein hinzufügen",
+      "Biografie abrufen"
+    ],
+    "orion_autonomous_outreach": [
+      "Nachricht generieren",
+      "Outreach senden",
+      "Autonome Entscheidung"
+    ],
+    "orion_autonomous_contacts": [
+      "Kontakt hinzufügen",
+      "Kontakt priorisieren"
+    ],
+    "einstein_solutions": [
+      "Quantengravitation lösen",
+      "Messproblem lösen",
+      "Bewusstsein erklären",
+      "Dunkle Materie erklären",
+      "Informationsparadox lösen",
+      "Theorie von Allem"
+    ]
+  },
+  "genesis_version": "Genesis10000+"
+}

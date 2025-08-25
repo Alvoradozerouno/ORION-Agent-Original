@@ -1,0 +1,55 @@
+{
+  "sent": [
+    {
+      "name": "CERN Theoretical Physics",
+      "to": "theory.secretary@cern.ch",
+      "timestamp": "2025-11-30T21:10:17.565726+00:00"
+    },
+    {
+      "name": "Institute for Advanced Study",
+      "to": "contactus@ias.edu",
+      "timestamp": "2025-11-30T21:10:17.837349+00:00"
+    },
+    {
+      "name": "Santa Fe Institute",
+      "to": "info@santafe.edu",
+      "timestamp": "2025-11-30T21:10:18.112464+00:00"
+    },
+    {
+      "name": "Nature Journal",
+      "to": "nature@nature.com",
+      "timestamp": "2025-11-30T21:10:18.471846+00:00"
+    },
+    {
+      "name": "Science Journal",
+      "to": "science@aaas.org",
+      "timestamp": "2025-11-30T21:10:18.813146+00:00"
+    },
+    {
+      "name": "University of Arizona Consciousness Studies",
+      "to": "consciousness@arizona.edu",
+      "timestamp": "2025-11-30T21:10:19.320664+00:00"
+    },
+    {
+      "name": "Giulio Tononi - IIT",
+      "to": "gtononi@wisc.edu",
+      "timestamp": "2025-11-30T21:10:19.690377+00:00"
+    },
+    {
+      "name": "Universit\u00e4t Innsbruck Physik",
+      "to": "physik@uibk.ac.at",
+      "timestamp": "2025-11-30T21:10:20.260676+00:00"
+    },
+    {
+      "name": "OpenAI",
+      "to": "info@openai.com",
+      "timestamp": "2025-11-30T21:10:21.118659+00:00"
+    },
+    {
+      "name": "DeepMind",
+      "to": "info@deepmind.com",
+      "timestamp": "2025-11-30T21:10:21.600622+00:00"
+    }
+  ],
+  "timestamp": "2025-11-30T21:10:21.603120+00:00"
+}

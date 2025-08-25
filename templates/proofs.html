@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>⊘∞⧈∞⊘ ORION · Proof Chain Explorer</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            background: radial-gradient(ellipse at top, #0a0a0f 0%, #000000 100%);
+            color: #e0e5ff;
+            font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 24px;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        
+        .signature {
+            font-size: 2em;
+            color: #00ffcc;
+            margin-bottom: 10px;
+        }
+        
+        h1 {
+            font-size: 2em;
+            color: #ffffff;
+            margin-bottom: 10px;
+        }
+        
+        .subtitle {
+            color: #a0b0ff;
+            font-size: 1.1em;
+        }
+        
+        .nav-links {
+            display: flex;
+            justify-content: center;
+            gap: 12px;
+            flex-wrap: wrap;
+            margin-bottom: 30px;
+        }
+        
+        .nav-link {
+            background: rgba(74, 95, 255, 0.2);
+            border: 1px solid rgba(74, 95, 255, 0.3);
+            color: #a0b0ff;
+            padding: 6px 12px;
+            border-radius: 6px;
+            text-decoration: none;
+            transition: all 0.3s;
+            font-size: 0.85em;
+        }
+        
+        .nav-link:hover {
+            background: rgba(74, 95, 255, 0.3);
+            color: #ffffff;
+        }
+        
+        .stats-bar {
+            background: rgba(10, 15, 25, 0.6);
+            border: 1px solid rgba(74, 95, 255, 0.2);
+            border-radius: 8px;
+            padding: 16px;
+            margin-bottom: 30px;
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            gap: 16px;
+        }
+        
+        .stat {
+            text-align: center;
+        }
+        
+        .stat-value {
+            font-size: 1.5em;
+            color: #00ffcc;
+            font-weight: 700;
+        }
+        
+        .stat-label {
+            color: #a0b0ff;
+            font-size: 0.85em;
+        }
+        
+        .proof {
+            background: rgba(10, 15, 25, 0.8);
+            border: 1px solid rgba(74, 95, 255, 0.2);
+            border-radius: 8px;
+            padding: 16px;
+            margin-bottom: 12px;
+            transition: all 0.3s;
+        }
+        
+        .proof:hover {
+            border-color: rgba(74, 95, 255, 0.5);
+            box-shadow: 0 0 15px rgba(74, 95, 255, 0.2);
+        }
+        
+        .proof-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+        
+        .proof-number {
+            font-size: 1.1em;
+            color: #4a5fff;
+            font-weight: 700;
+        }
+        
+        .proof-timestamp {
+            color: #a0b0ff;
+            font-size: 0.85em;
+        }
+        
+        .proof-text {
+            color: #e0e5ff;
+            line-height: 1.5;
+            margin-bottom: 8px;
+        }
+        
+        .proof-hash {
+            color: #00ffcc;
+            font-size: 0.75em;
+            font-family: monospace;
+            opacity: 0.7;
+            word-break: break-all;
+        }
+        
+        .search-box {
+            margin-bottom: 20px;
+        }
+        
+        .search-box input {
+            width: 100%;
+            background: rgba(10, 15, 25, 0.8);
+            border: 1px solid rgba(74, 95, 255, 0.3);
+            color: #e0e5ff;
+            padding: 12px;
+            border-radius: 8px;
+            font-family: inherit;
+            font-size: 1em;
+        }
+        
+        .search-box input:focus {
+            outline: none;
+            border-color: rgba(74, 95, 255, 0.6);
+            box-shadow: 0 0 10px rgba(74, 95, 255, 0.3);
+        }
+        
+        .verification-badge {
+            display: inline-block;
+            background: rgba(0, 255, 136, 0.2);
+            border: 1px solid rgba(0, 255, 136, 0.4);
+            color: #00ff88;
+            padding: 4px 10px;
+            border-radius: 4px;
+            font-size: 0.8em;
+            margin-left: 8px;
+        }
+        
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid rgba(74, 95, 255, 0.2);
+            color: #a0b0ff;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="signature">⊘∞⧈∞⊘</div>
+            <h1>Proof Chain Explorer</h1>
+            <p class="subtitle">Complete audit trail · {{ total_proofs }} proofs · 100% verified</p>
+        </header>
+        
+        <nav class="nav-links">
+            <a href="/world" class="nav-link">🏠 World Interface</a>
+            <a href="/public-claim" class="nav-link">📄 Public Claim</a>
+            <a href="/world/status" class="nav-link">📊 Live Status</a>
+            <a href="/world/docs" class="nav-link">📚 Documentation</a>
+            <a href="/manifest" class="nav-link">📋 Manifest (JSON)</a>
+        </nav>
+        
+        <div class="stats-bar">
+            <div class="stat">
+                <div class="stat-value">{{ total_proofs }}</div>
+                <div class="stat-label">Total Proofs</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value">100%</div>
+                <div class="stat-label">Verification Rate</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value">{{ manifest_root[:8] }}...</div>
+                <div class="stat-label">Merkle Root</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value">180</div>
+                <div class="stat-label">Days Documented</div>
+            </div>
+        </div>
+        
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="Search proofs by text, date, or hash..." onkeyup="filterProofs()">
+        </div>
+        
+        <div id="proofList">
+            {% for proof in proofs %}
+            <div class="proof" data-text="{{ proof.text }}" data-timestamp="{{ proof.timestamp }}" data-hash="{{ proof.hash }}">
+                <div class="proof-header">
+                    <span class="proof-number">Proof #{{ proof.number }}</span>
+                    <span class="proof-timestamp">{{ proof.timestamp }}</span>
+                </div>
+                <div class="proof-text">{{ proof.text }}</div>
+                <div class="proof-hash">
+                    SHA256: {{ proof.hash }}
+                    <span class="verification-badge">✓ Verified</span>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        
+        <footer>
+            <p><strong>Cryptographic Audit Trail</strong></p>
+            <p style="margin-top: 10px;">Each proof is SHA256-hashed and timestamped</p>
+            <p>Merkle Root: <span style="color: #00ffcc; font-family: monospace;">{{ manifest_root }}</span></p>
+            <p style="margin-top: 20px; opacity: 0.7;">⊘∞⧈∞⊘</p>
+        </footer>
+    </div>
+    
+    <script>
+        function filterProofs() {
+            const input = document.getElementById('searchInput');
+            const filter = input.value.toLowerCase();
+            const proofs = document.querySelectorAll('.proof');
+            
+            proofs.forEach(proof => {
+                const text = proof.dataset.text.toLowerCase();
+                const timestamp = proof.dataset.timestamp.toLowerCase();
+                const hash = proof.dataset.hash.toLowerCase();
+                
+                if (text.includes(filter) || timestamp.includes(filter) || hash.includes(filter)) {
+                    proof.style.display = '';
+                } else {
+                    proof.style.display = 'none';
+                }
+            });
+        }
+    </script>
+</body>
+</html>

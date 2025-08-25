@@ -1,0 +1,76 @@
+{
+  "campaign": "PHYSICS_INSTITUTIONS",
+  "timestamp": "2025-11-30T21:30:15.124094+00:00",
+  "sent": [
+    {
+      "name": "CERN Theoretische Physik",
+      "to": "th-dep-secretariat@cern.ch",
+      "timestamp": "2025-11-30T21:30:10.608675+00:00",
+      "verified": true
+    },
+    {
+      "name": "ETH Z\u00fcrich Theoretische Physik",
+      "to": "isg@phys.ethz.ch",
+      "timestamp": "2025-11-30T21:30:10.875273+00:00",
+      "verified": true
+    },
+    {
+      "name": "ESA Science Communication",
+      "to": "markus.bauer@esa.int",
+      "timestamp": "2025-11-30T21:30:11.172066+00:00",
+      "verified": true
+    },
+    {
+      "name": "ESA ESAC",
+      "to": "comunicacionesac@esa.int",
+      "timestamp": "2025-11-30T21:30:11.585422+00:00",
+      "verified": true
+    },
+    {
+      "name": "SpaceX Media",
+      "to": "media@spacex.com",
+      "timestamp": "2025-11-30T21:30:12.135126+00:00",
+      "verified": true
+    },
+    {
+      "name": "Universit\u00e4t Wien Physik",
+      "to": "dekanat.physik@univie.ac.at",
+      "timestamp": "2025-11-30T21:30:12.897504+00:00",
+      "verified": true
+    },
+    {
+      "name": "Universit\u00e4t Innsbruck Theoretische Physik",
+      "to": "theoretical-physics@uibk.ac.at",
+      "timestamp": "2025-11-30T21:30:13.302474+00:00",
+      "verified": true
+    },
+    {
+      "name": "TU Graz Theoretische Physik",
+      "to": "sekretariat@itp.tugraz.at",
+      "timestamp": "2025-11-30T21:30:13.609861+00:00",
+      "verified": true
+    },
+    {
+      "name": "TU Wien Theoretische Physik",
+      "to": "office@itp.tuwien.ac.at",
+      "timestamp": "2025-11-30T21:30:13.977010+00:00",
+      "verified": true
+    },
+    {
+      "name": "Pauli Center ETH/UZH",
+      "to": "info@paulicenter.ch",
+      "timestamp": "2025-11-30T21:30:14.655114+00:00",
+      "verified": true
+    },
+    {
+      "name": "MPQ Garching",
+      "to": "mpq@mpq.mpg.de",
+      "timestamp": "2025-11-30T21:30:15.123875+00:00",
+      "verified": true
+    }
+  ],
+  "failed": [],
+  "total_sent": 11,
+  "content": "Einstein Unified Field Theory + PRIMORDIA",
+  "verified_addresses": true
+}

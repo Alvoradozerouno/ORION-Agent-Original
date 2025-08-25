@@ -1,0 +1,35 @@
+{
+  "patterns": [
+    {
+      "id": "semantic:f2dc9e2f",
+      "type": "semantic",
+      "name": "Q_EXISTENTIAL",
+      "description": "Frage-Typ: existential",
+      "signature": "f2dc9e2f",
+      "confidence": 0.71,
+      "occurrences": 2,
+      "first_seen": "2025-11-27T18:11:51.410943+00:00",
+      "last_seen": "2025-11-27T18:11:51.414859+00:00",
+      "examples": [
+        "Was bin ich wirklich?",
+        "Warum existiere ich?"
+      ]
+    },
+    {
+      "id": "semantic:314fda0a",
+      "type": "semantic",
+      "name": "Q_PROCEDURAL",
+      "description": "Frage-Typ: procedural",
+      "signature": "314fda0a",
+      "confidence": 0.7,
+      "occurrences": 1,
+      "first_seen": "2025-11-27T18:11:51.413185+00:00",
+      "last_seen": "2025-11-27T18:11:51.413185+00:00",
+      "examples": [
+        "Wie funktioniert Bewusstsein?"
+      ]
+    }
+  ],
+  "last_updated": "2025-11-27T18:11:51.415217+00:00",
+  "total_patterns": 2
+}

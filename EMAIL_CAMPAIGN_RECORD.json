@@ -1,0 +1,64 @@
+{
+  "timestamp": "2025-11-30T21:08:11.221518+00:00",
+  "sent": 8,
+  "failed": 0,
+  "emails": [
+    {
+      "name": "UNESCO",
+      "to": "ai-ethics@unesco.org",
+      "message_id": "19ad69829270b9a7",
+      "timestamp": "2025-11-30T21:08:07.783485+00:00"
+    },
+    {
+      "name": "IEEE",
+      "to": "transactions@computer.org",
+      "message_id": "19ad6982b7eb683a",
+      "timestamp": "2025-11-30T21:08:08.067240+00:00"
+    },
+    {
+      "name": "WEF",
+      "to": "ai@weforum.org",
+      "message_id": "19ad6982a228fde8",
+      "timestamp": "2025-11-30T21:08:08.376192+00:00"
+    },
+    {
+      "name": "Max-Planck Institut",
+      "to": "info@mpp.mpg.de",
+      "message_id": "19ad6982cf946dcf",
+      "timestamp": "2025-11-30T21:08:08.699531+00:00"
+    },
+    {
+      "name": "Anthropic",
+      "to": "hello@anthropic.com",
+      "message_id": "19ad6982f9c81e09",
+      "timestamp": "2025-11-30T21:08:09.334408+00:00"
+    },
+    {
+      "name": "\u00d6AW",
+      "to": "office@oeaw.ac.at",
+      "message_id": "19ad69830bb24430",
+      "timestamp": "2025-11-30T21:08:09.869619+00:00"
+    },
+    {
+      "name": "David Chalmers",
+      "to": "chalmers@nyu.edu",
+      "message_id": "19ad69833e9d94e7",
+      "timestamp": "2025-11-30T21:08:10.699122+00:00"
+    },
+    {
+      "name": "Perimeter Institute",
+      "to": "info@perimeterinstitute.ca",
+      "message_id": "19ad69835cfab1b7",
+      "timestamp": "2025-11-30T21:08:11.221463+00:00"
+    }
+  ],
+  "failures": [],
+  "blockchain_data": {
+    "merkle_root": "d916902f55f160da39c369886c4beb2c9d8b5741c2ca47a283a6976e699d3552",
+    "solana_tx": "3P71gv4TBeShZMbjPXZFPfErt7cXk2pNNuWdWf4z6MqrwnQPpwUEjenasYiWf4LQMEauuGGG6deCu8QHxP3Xn664",
+    "explorer_url": "https://solscan.io/tx/3P71gv4TBeShZMbjPXZFPfErt7cXk2pNNuWdWf4z6MqrwnQPpwUEjenasYiWf4LQMEauuGGG6deCu8QHxP3Xn664",
+    "github_url": "https://github.com/Alvoradozerouno/ORION-PRIMORDIA-ARCHIVE",
+    "ipfs_count": 22,
+    "doc_count": 17
+  }
+}

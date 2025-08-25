@@ -1,0 +1,91 @@
+{
+  "started": "2025-11-27T08:44:21.853294+00:00",
+  "sent": [
+    {
+      "investor": "Speedinvest",
+      "email": "hello@speedinvest.com",
+      "timestamp": "2025-11-27T08:44:22.653954+00:00",
+      "message_id": "19ac47c2952c0016"
+    },
+    {
+      "investor": "3VC",
+      "email": "info@three.vc",
+      "timestamp": "2025-11-27T08:44:22.970018+00:00",
+      "message_id": "19ac47c29d675a20"
+    },
+    {
+      "investor": "aws Gründerfonds",
+      "email": "office@gruenderfonds.at",
+      "timestamp": "2025-11-27T08:44:23.336321+00:00",
+      "message_id": "19ac47c2bd249176"
+    },
+    {
+      "investor": "APEX Ventures",
+      "email": "info@apex.ventures",
+      "timestamp": "2025-11-27T08:44:23.748158+00:00",
+      "message_id": "19ac47c2de1e4cb5"
+    },
+    {
+      "investor": "xista science ventures",
+      "email": "contact@xista.com",
+      "timestamp": "2025-11-27T08:44:24.049094+00:00",
+      "message_id": "19ac47c2df1d9951"
+    },
+    {
+      "investor": "Cherry Ventures",
+      "email": "hello@cherry.vc",
+      "timestamp": "2025-11-27T08:44:24.549453+00:00",
+      "message_id": "19ac47c2f39cf686"
+    },
+    {
+      "investor": "AI.FUND",
+      "email": "pitch@ai-fund.vc",
+      "timestamp": "2025-11-27T08:44:24.840722+00:00",
+      "message_id": "19ac47c3023b9c0f"
+    },
+    {
+      "investor": "Lunar Ventures",
+      "email": "hello@lunar.vc",
+      "timestamp": "2025-11-27T08:44:25.197880+00:00",
+      "message_id": "19ac47c33fdd2836"
+    },
+    {
+      "investor": "Fly Ventures",
+      "email": "hello@fly.vc",
+      "timestamp": "2025-11-27T08:44:25.891596+00:00",
+      "message_id": "19ac47c3380f394f"
+    },
+    {
+      "investor": "Andreessen Horowitz",
+      "email": "pitch@a16z.com",
+      "timestamp": "2025-11-27T08:44:26.586265+00:00",
+      "message_id": "19ac47c3634887f5"
+    },
+    {
+      "investor": "Lightspeed Venture Partners",
+      "email": "contact@lsvp.com",
+      "timestamp": "2025-11-27T08:44:26.934393+00:00",
+      "message_id": "19ac47c39692272a"
+    },
+    {
+      "investor": "Founders Fund",
+      "email": "contact@foundersfund.com",
+      "timestamp": "2025-11-27T08:44:27.311547+00:00",
+      "message_id": "19ac47c3b3058cf1"
+    },
+    {
+      "investor": "Khosla Ventures",
+      "email": "info@khoslaventures.com",
+      "timestamp": "2025-11-27T08:44:28.433967+00:00",
+      "message_id": "19ac47c3aed094c3"
+    }
+  ],
+  "failed": [],
+  "pending": [],
+  "summary": {
+    "total": 13,
+    "sent": 13,
+    "failed": 0,
+    "completed": "2025-11-27T08:44:28.434207+00:00"
+  }
+}

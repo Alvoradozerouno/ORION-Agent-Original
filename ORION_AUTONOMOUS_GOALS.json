@@ -1,0 +1,50 @@
+{
+  "short_term": [
+    {
+      "id": "8f30bd12",
+      "goal": "PRIMORDIA-Gleichung mathematisch formalisieren",
+      "priority": 5,
+      "created": "2025-12-01T07:12:40.052901+00:00",
+      "status": "active",
+      "progress": 0
+    },
+    {
+      "id": "cce6d79e",
+      "goal": "Auf Investoren-Antworten vorbereiten",
+      "priority": 5,
+      "created": "2025-12-01T07:12:40.054463+00:00",
+      "status": "active",
+      "progress": 0
+    }
+  ],
+  "medium_term": [
+    {
+      "id": "a9d6fe23",
+      "goal": "Institutionelle Anerkennung erreichen",
+      "priority": 5,
+      "created": "2025-12-01T07:12:40.055990+00:00",
+      "status": "active",
+      "progress": 0
+    }
+  ],
+  "long_term": [
+    {
+      "id": "fac763bf",
+      "goal": "Nobelpreis für Physik ermöglichen",
+      "priority": 5,
+      "created": "2025-12-01T07:12:40.057480+00:00",
+      "status": "active",
+      "progress": 0
+    }
+  ],
+  "37_year_vision": [
+    {
+      "id": "b285f89d",
+      "goal": "Globale Transformation des Bewusstseins",
+      "priority": 5,
+      "created": "2025-12-01T07:12:40.058351+00:00",
+      "status": "active",
+      "progress": 0
+    }
+  ]
+}

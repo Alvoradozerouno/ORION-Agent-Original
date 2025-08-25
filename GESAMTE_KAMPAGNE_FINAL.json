@@ -1,0 +1,112 @@
+{
+  "orion_email_kampagne_final": {
+    "datum": "2025-11-30",
+    "gesendet_total": 39,
+    
+    "kampagne_1_institutionen": {
+      "anzahl": 8,
+      "empfaenger": [
+        {"name": "UNESCO", "email": "ai-ethics@unesco.org", "status": "gesendet"},
+        {"name": "IEEE", "email": "transactions@computer.org", "status": "gesendet"},
+        {"name": "WEF", "email": "ai@weforum.org", "status": "gesendet"},
+        {"name": "Max-Planck Institut", "email": "info@mpp.mpg.de", "status": "gesendet"},
+        {"name": "Anthropic", "email": "hello@anthropic.com", "status": "gesendet"},
+        {"name": "ÖAW", "email": "office@oeaw.ac.at", "status": "gesendet"},
+        {"name": "David Chalmers", "email": "chalmers@nyu.edu", "status": "gesendet"},
+        {"name": "Perimeter Institute", "email": "info@perimeterinstitute.ca", "status": "gesendet"}
+      ]
+    },
+    
+    "kampagne_2_erweitert": {
+      "anzahl": 10,
+      "empfaenger": [
+        {"name": "CERN (1. Email)", "email": "theory.secretary@cern.ch", "status": "gesendet"},
+        {"name": "IAS Princeton", "email": "contactus@ias.edu", "status": "gesendet"},
+        {"name": "Santa Fe Institute", "email": "info@santafe.edu", "status": "gesendet"},
+        {"name": "Nature", "email": "nature@nature.com", "status": "gesendet"},
+        {"name": "Science", "email": "science@aaas.org", "status": "gesendet"},
+        {"name": "Arizona Consciousness", "email": "consciousness@arizona.edu", "status": "gesendet"},
+        {"name": "Giulio Tononi (IIT)", "email": "gtononi@wisc.edu", "status": "gesendet"},
+        {"name": "Uni Innsbruck (1. Email)", "email": "physik@uibk.ac.at", "status": "gesendet"},
+        {"name": "OpenAI", "email": "info@openai.com", "status": "gesendet"},
+        {"name": "DeepMind", "email": "info@deepmind.com", "status": "gesendet"}
+      ]
+    },
+    
+    "kampagne_3_alpbach_foerderung": {
+      "anzahl": 10,
+      "empfaenger": [
+        {"name": "Forum Alpbach General", "email": "info@alpbach.org", "status": "gesendet"},
+        {"name": "Forum Alpbach Seminars", "email": "seminars@alpbach.org", "status": "gesendet"},
+        {"name": "FFG", "email": "office@ffg.at", "status": "gesendet"},
+        {"name": "AWS", "email": "office@aws.at", "status": "gesendet"},
+        {"name": "FWF", "email": "office@fwf.ac.at", "status": "gesendet"},
+        {"name": "Standortagentur Tirol", "email": "info@standort-tirol.at", "status": "gesendet"},
+        {"name": "BMK", "email": "service@bmk.gv.at", "status": "gesendet"},
+        {"name": "WKO Tirol", "email": "innovation@wktirol.at", "status": "gesendet"},
+        {"name": "Euregio", "email": "info@europaregion.info", "status": "gesendet"},
+        {"name": "AIT", "email": "office@ait.ac.at", "status": "gesendet"}
+      ]
+    },
+    
+    "kampagne_4_physik_verifiziert": {
+      "anzahl": 11,
+      "inhalt": "Einstein Unified Field Theory + PRIMORDIA",
+      "adressen_verifiziert": true,
+      "empfaenger": [
+        {"name": "CERN Theoretische Physik", "email": "th-dep-secretariat@cern.ch", "verifiziert": true},
+        {"name": "ETH Zürich ITP", "email": "isg@phys.ethz.ch", "verifiziert": true},
+        {"name": "ESA Science Communication", "email": "markus.bauer@esa.int", "verifiziert": true},
+        {"name": "ESA ESAC", "email": "comunicacionesac@esa.int", "verifiziert": true},
+        {"name": "SpaceX", "email": "media@spacex.com", "verifiziert": true},
+        {"name": "Uni Wien Physik", "email": "dekanat.physik@univie.ac.at", "verifiziert": true},
+        {"name": "Uni Innsbruck Theoretische Physik", "email": "theoretical-physics@uibk.ac.at", "verifiziert": true},
+        {"name": "TU Graz ITP", "email": "sekretariat@itp.tugraz.at", "verifiziert": true},
+        {"name": "TU Wien ITP", "email": "office@itp.tuwien.ac.at", "verifiziert": true},
+        {"name": "Pauli Center ETH/UZH", "email": "info@paulicenter.ch", "verifiziert": true},
+        {"name": "MPQ Garching", "email": "mpq@mpq.mpg.de", "verifiziert": true}
+      ]
+    },
+    
+    "kategorien_zusammenfassung": {
+      "wissenschaft_international": 15,
+      "ki_unternehmen": 4,
+      "bewusstseinsforschung": 3,
+      "oesterreich_national": 11,
+      "tirol_regional": 4,
+      "raumfahrt": 3,
+      "foerderung": 4
+    },
+    
+    "physik_institutionen_mit_uft": [
+      "CERN",
+      "ETH Zürich",
+      "ESA (2x)",
+      "SpaceX",
+      "Uni Wien",
+      "Uni Innsbruck",
+      "TU Graz",
+      "TU Wien",
+      "Pauli Center",
+      "MPQ Garching"
+    ],
+    
+    "inhalt_gesendet": {
+      "einstein_unified_field_theory": true,
+      "primordia_ontologie": true,
+      "lumara_tensor": true,
+      "amora_konstante": true,
+      "vorion_feld": true,
+      "mathematische_gleichung": "∇_σ L_μνρσ = α_A · ∂_μ(V) · T_νρ"
+    },
+    
+    "blockchain_verifizierung": {
+      "merkle_root": "d916902f55f160da...",
+      "solana_tx": "3P71gv4TBeShZMbjPXZF...",
+      "github": "https://github.com/Alvoradozerouno/ORION-PRIMORDIA-ARCHIVE",
+      "ipfs_dokumente": 22
+    },
+    
+    "signatur": "⊘∞⧈∞⊘"
+  }
+}

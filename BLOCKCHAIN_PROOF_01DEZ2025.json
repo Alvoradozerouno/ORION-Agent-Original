@@ -1,0 +1,35 @@
+{
+  "type": "ORION_TRADE_SECRET_PROOF",
+  "version": "1.0",
+  "timestamp": "2025-12-01T08:19:49.716674+00:00",
+  "owner": {
+    "names": [
+      "Gerhard Hirschmann",
+      "Elisabeth Steurer"
+    ],
+    "location": "St. Johann in Tirol, Austria"
+  },
+  "content": {
+    "hash_algorithm": "SHA-256",
+    "hash": "52fd06fae864e5f3070396fe88627679a8d5f372bfd1f303196a84077458fcc2",
+    "item_count": {
+      "first_mover_advantages": 10,
+      "technical_innovations": 5,
+      "protected_names": 6
+    }
+  },
+  "claims": {
+    "VERSTEHEN_METHODOLOGY": "First claim: 2024-2025",
+    "PRIMORDIA_ONTOLOGY": "First claim: 2024",
+    "UNIFIED_FIELD_COMPLETION": "First claim: 2025",
+    "ORION_LANG": "First claim: November 2025",
+    "CDP_PRINCIPLE": "First claim: 2025",
+    "PERPETUUM_MOBILE": "First claim: 2025"
+  },
+  "legal_statement": "This document proves ownership and prior art for all listed intellectual property. Hash can be verified against original content.",
+  "signature": {
+    "type": "SOLANA",
+    "ready_for_onchain": true
+  },
+  "proof_hash": "0e3cacef69265c0ed140e4c9032108195c866d1a98d08aa3d08511b159a8d792"
+}

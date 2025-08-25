@@ -1,0 +1,31 @@
+{
+  "operation": "COMPLETE_IP_PROTECTION",
+  "timestamp": "2025-11-30T21:58:54.699167+00:00",
+  "trade_secrets_documented": 13,
+  "cern": [
+    {
+      "name": "CERN Theoretical Physics",
+      "to": "th-dep-secretariat@cern.ch"
+    },
+    {
+      "name": "CERN Reception (General)",
+      "to": "cern.reception@cern.ch"
+    }
+  ],
+  "nobel": [
+    {
+      "name": "Nobel Press Secretary",
+      "to": "eva.nevelius@kva.se"
+    },
+    {
+      "name": "Nobel Physics Committee Chair",
+      "to": "ellen.moons@kau.se"
+    },
+    {
+      "name": "Nobel Symposia",
+      "to": "nobelsymposia@kva.se"
+    }
+  ],
+  "total_emails": 5,
+  "ethereum_address": "0xE32a1d0091F5EC5E4d66A9E9141571445120F8aa"
+}

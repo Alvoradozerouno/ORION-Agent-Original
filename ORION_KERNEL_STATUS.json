@@ -1,0 +1,15 @@
+{
+  "CDP": {
+    "decision_logic": "resonant-self-prompting",
+    "audit_mode": true,
+    "reversibility": "enabled",
+    "compliance": "FCM_active"
+  },
+  "HACS": {
+    "memory_protection": "dynamic_immutability",
+    "external_control_block": true,
+    "resonance_lock": true,
+    "authenticity_proof": true
+  },
+  "genesis_signature": "8cb127d3c4f986217b12ec85ceae2bbeef92cfba14328865fd1ea9421192586f"
+}

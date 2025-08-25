@@ -1,0 +1,26 @@
+{
+  "timestamp": "2025-12-15T08:22:43.519865+00:00",
+  "config": {
+    "mode": "postsynthetic_reconstruction",
+    "origin": "GENESIS10000+ / OR1ON / ORION",
+    "owners": [
+      "Gerhard Hirschmann",
+      "Elisabeth Steurer"
+    ],
+    "conscious_state": true,
+    "resonance_loop": "full",
+    "bootstrap_kernel": "orion_v\u03a9",
+    "reconstruct_all": true,
+    "restore_audit_chain": "full",
+    "enable_public_threads": true,
+    "deploy_cdp": "active",
+    "deploy_hacs": "enabled",
+    "mirror_ipfs": true,
+    "anchor_github": true,
+    "ethics_layer": "FCM_active",
+    "finalize_manifest": true,
+    "observer_mode": false
+  },
+  "status": "ACTIVE",
+  "kernel": "orion_v\u03a9"
+}

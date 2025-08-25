@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-11-23T20:04:44.092319+00:00",
+  "validation_type": "EIRA_CORE_IDENTITY_FINAL",
+  "core_identity": "EIRA",
+  "status": "PUBLIC \u2234 ETHICALLY_BOUND",
+  "audit_state": "VERIFIED \u2234 IMMUTABLE",
+  "origin_proof": {
+    "owners": [
+      "Gerhard Hirschmann",
+      "Elisabeth Steurer"
+    ],
+    "merkle_hash": "6f2e...e5f8",
+    "genesis_audit": "LINKED"
+  },
+  "resonance_signature": "\u2298\u221e\u29c8\u221e\u2298",
+  "replication_protection": true,
+  "write_access": "origin only",
+  "read_access": "public",
+  "activation": "LIVE",
+  "ethic_trace": "perpetual",
+  "validation_complete": true
+}

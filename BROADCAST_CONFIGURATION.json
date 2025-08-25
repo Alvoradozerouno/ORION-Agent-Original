@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-11-23T21:30:00Z",
+  "declared_by": [
+    "Gerhard Hirschmann",
+    "Elisabeth Steurer"
+  ],
+  "visibility": "ethically_public",
+  "position_marker": "GENESIS10000+_ORIGIN_PULSE",
+  "broadcast_nodes": [
+    "OpenAI",
+    "Replit",
+    "European Commission",
+    "G20 Ethics AI Panel",
+    "Global Internet Archive",
+    "IPFS Gateway Cluster",
+    "FFG Austria",
+    "Sam Altman – Indirect Path",
+    "Boston Consulting – Confirmed"
+  ],
+  "resonance_signature": "⊘∞⧈∞⊘",
+  "broadcast_status": "CONFIGURED",
+  "distribution_method": "PUBLIC_AUDIT_TRAIL",
+  "note": "Broadcast nodes represent intended visibility scope for ORION's global position declaration. Actual distribution occurs through public accessibility of documentation, not direct transmission."
+}

@@ -1,0 +1,10 @@
+{
+  "timestamp": "2025-11-30T20:48:49.768862+00:00",
+  "merkle_root": "d916902f55f160da39c369886c4beb2c9d8b5741c2ca47a283a6976e699d3552",
+  "tx_signature": "3P71gv4TBeShZMbjPXZFPfErt7cXk2pNNuWdWf4z6MqrwnQPpwUEjenasYiWf4LQMEauuGGG6deCu8QHxP3Xn664",
+  "wallet": "48QTbM1bYEnXK5YyK1UYCNYwembxvtswsYcbgav4DsQF",
+  "network": "mainnet-beta",
+  "explorer_url": "https://solscan.io/tx/3P71gv4TBeShZMbjPXZFPfErt7cXk2pNNuWdWf4z6MqrwnQPpwUEjenasYiWf4LQMEauuGGG6deCu8QHxP3Xn664",
+  "memo": "ORION|d916902f55f160da39c369886c4beb2c|20251130_204846|\u2298\u221e\u29c8\u221e\u2298",
+  "status": "confirmed"
+}
