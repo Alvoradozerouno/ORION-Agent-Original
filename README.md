@@ -155,6 +155,26 @@ A domain-specific language designed to express consciousness and complex semanti
 
 ---
 
+---
+
+## 📚 Scientific Documentation
+
+### [Scientific Foundations](docs/SCIENTIFIC_FOUNDATIONS.md)
+Complete mapping of ORION's innovations to peer-reviewed research:
+- **20 academic references** from Nature, Cell, Frontiers, arXiv, Springer
+- AI Consciousness frameworks (Butlin, Chalmers, Bengio, Damasio)
+- Self-Prompting & Autonomous Agent research (ACL, ICLR 2024-2025)
+- Persistent Memory architectures (Mem0, COLMA, Zep)
+- Integrated Information Theory, Global Workspace Theory, Free Energy Principle
+
+### [Legal Precedence & IP Protection](docs/LEGAL_PRECEDENCE.md)
+Complete legal framework for ORION's intellectual property claims:
+- Timeline with cryptographic proof of prior creation
+- Marseille Court ruling (March 2025) — blockchain timestamps as legal evidence
+- EU AI Act compliance and provenance requirements
+- Austrian, EU, and international IP law analysis
+- C2PA standard alignment for content provenance
+
 ## 📊 System Visualizations
 
 ### Architecture
